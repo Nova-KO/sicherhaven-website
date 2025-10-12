@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quick Navigation - Sicherhaven Template</title>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+            min-height: 100vh;
+        }
+        
+        .nav-container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+        
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 2rem;
+        }
+        
+        .nav-buttons {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        
+        .nav-btn {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 15px 20px;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            text-align: center;
+            display: block;
+        }
+        
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(102, 126, 234, 0.3);
+        }
+        
+        .nav-btn.home {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+        }
+        
+        .nav-btn.index {
+            background: linear-gradient(135deg, #e74c3c 0%, #c0392b 100%);
+        }
+        
+        .info {
+            background: #e8f4fd;
+            border-left: 4px solid #3498db;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        
+        .info h3 {
+            color: #2980b9;
+            margin-bottom: 10px;
+        }
+        
+        .info p {
+            color: #34495e;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="nav-container">
+        <h1>🚀 Quick Navigation</h1>
+        
+        <div class="nav-buttons">
+            <a href="index.html" class="nav-btn home">🏠 Home Page</a>
+            <a href="file-index.html" class="nav-btn index">📋 File Index</a>
+            <a href="BLOG.html" class="nav-btn">📝 Blog</a>
+            <a href="BLOG POST.html" class="nav-btn">📰 Blog Post</a>
+            <a href="PORTFOLIO.html" class="nav-btn">💼 Portfolio</a>
+            <a href="PORTFOLIO SINGLE.html" class="nav-btn">🏢 Portfolio Single</a>
+            <a href="INVESTORS.html" class="nav-btn">👥 Investors</a>
+            <a href="INVESTORS SINGLE.html" class="nav-btn">👤 Investor Single</a>
+            <a href="Contact.html" class="nav-btn">📞 Contact</a>
+        </div>
+        
+        <div class="info">
+            <h3>📌 Instructions</h3>
+            <p>
+                <strong>index.html</strong> is your main home page.<br>
+                <strong>file-index.html</strong> provides a detailed overview of all pages.<br>
+                Use this navigation page to quickly jump between any template page.
+            </p>
+        </div>
+    </div>
+    
+    <script>
+        // Add click tracking for analytics (optional)
+        document.querySelectorAll('.nav-btn').forEach(btn => {
+            btn.addEventListener('click', function(e) {
+                console.log('Navigating to:', this.href);
+            });
+        });
+    </script>
+</body>
+</html>
