@@ -18,8 +18,18 @@ document.addEventListener('DOMContentLoaded',async function(){
       const nodeToReplace = existingHeaderCandidate.closest('.header-wrapper-absolute') || existingHeaderCandidate;
       nodeToReplace.replaceWith(newHeader);
     } else if (newHeader) {
-      // Always inject header at very top so it stacks above all content
-      document.body.prepend(newHeader);
+      // Prefer injecting inside the hero so the logo sits within the blue banner
+      const heroContainer =
+        document.querySelector('.hero-wrapper') ||
+        document.querySelector('.section.hero-v1') ||
+        document.querySelector('.hero-v1') ||
+        null;
+
+      if (heroContainer) {
+        heroContainer.prepend(newHeader);
+      } else {
+        document.body.prepend(newHeader);
+      }
     }
 
     // Re-initialize Webflow interactions so button animations work
