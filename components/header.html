@@ -1,5 +1,8 @@
 <div class="header-wrapper-absolute">
 	<style>
+		/* Ensure header sits above and doesn't clip dropdown */
+		.header-wrapper-absolute { position: relative !important; z-index: 1002 !important; }
+		.header { overflow: visible !important; }
 		.header-logo-dark, .header-logo-white {
 			width: auto !important;
 			height: 80px !important;
@@ -18,14 +21,16 @@
 			top: 100% !important;
 			left: 50% !important;
 			transform: translateX(-50%) !important;
-			z-index: 1000 !important;
+			z-index: 1003 !important;
 			opacity: 0 !important;
 			visibility: hidden !important;
+			pointer-events: none;
 			transition: opacity 0.3s ease, visibility 0.3s ease !important;
 		}
 		.header-dropdown:hover .dropdown-content-wrapper {
 			opacity: 1 !important;
 			visibility: visible !important;
+			pointer-events: auto;
 		}
 		.dropdown-content-card {
 			box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
