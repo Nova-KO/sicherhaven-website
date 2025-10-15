@@ -7,10 +7,16 @@ document.addEventListener('DOMContentLoaded',async function(){
     const temp = document.createElement('div');
     temp.innerHTML = html.trim();
     const newHeader = temp.firstElementChild;
-    const existingHeader = document.querySelector('.header-wrapper-absolute');
+    // Detect an existing header on pages exported from Webflow (different structures)
+    const existingHeaderCandidate =
+      document.querySelector('.header-wrapper-absolute') ||
+      document.querySelector('.header.w-nav') ||
+      document.querySelector('.w-nav[role="banner"]') ||
+      document.querySelector('[role="banner"].w-nav');
 
-    if (existingHeader && newHeader) {
-      existingHeader.replaceWith(newHeader);
+    if (existingHeaderCandidate && newHeader) {
+      const nodeToReplace = existingHeaderCandidate.closest('.header-wrapper-absolute') || existingHeaderCandidate;
+      nodeToReplace.replaceWith(newHeader);
     } else if (newHeader) {
       // Always inject header at very top so it stacks above all content
       document.body.prepend(newHeader);
