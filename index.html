@@ -9836,37 +9836,6 @@ figure {
   }
 }
 
-/* Center the last 2 team members on their own row */
-.team-row-2 {
-  grid-column: 1 / -1;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-column-gap: var(--main-spacers--extra-small);
-  grid-row-gap: var(--main-spacers--extra-small);
-  justify-content: center;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-@media (max-width: 991px) {
-  .investors-grid-v1 {
-    grid-template-columns: 1fr 1fr;
-  }
-  
-  .team-row-2 {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media (max-width: 767px) {
-  .investors-grid-v1 {
-    grid-template-columns: 1fr;
-  }
-  
-  .team-row-2 {
-    grid-template-columns: 1fr;
-  }
-}
 
 /* Fix dropdown width - compact and aligned - removed duplicate */
 
@@ -10068,37 +10037,7 @@ figure {
 
   }
 
-/* Center the last 2 team members on their own row */
-.team-row-2 {
-  grid-column: 1 / -1;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-column-gap: var(--main-spacers--extra-small);
-  grid-row-gap: var(--main-spacers--extra-small);
-  justify-content: center;
-  max-width: 600px;
-  margin: 0 auto;
-}
-
-@media (max-width: 991px) {
-  .investors-grid-v1 {
-    grid-template-columns: 1fr 1fr;
-  }
-  
-  .team-row-2 {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media (max-width: 767px) {
-  .investors-grid-v1 {
-    grid-template-columns: 1fr;
-  }
-  
-  .team-row-2 {
-    grid-template-columns: 1fr;
-  }
-}</style>
+</style>
 <script>
         document.addEventListener('DOMContentLoaded', function() {
             const cards = document.querySelectorAll('.more-templates-badge-wrapper');
