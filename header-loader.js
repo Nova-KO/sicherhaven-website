@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded',async function(){
     if (existingHeader && newHeader) {
       existingHeader.replaceWith(newHeader);
     } else if (newHeader) {
-      const hero = document.querySelector('.hero-wrapper') || document.body.firstElementChild || document.body;
-      hero.prepend(newHeader);
+      // Always inject header at very top so it stacks above all content
+      document.body.prepend(newHeader);
     }
 
     // Re-initialize Webflow interactions so button animations work
