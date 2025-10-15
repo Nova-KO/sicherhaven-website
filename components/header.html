@@ -1,7 +1,14 @@
 <div class="header-wrapper-absolute">
 	<style>
 		/* Ensure header sits above content and doesn't clip dropdown */
-		.header-wrapper-absolute { position: sticky !important; top: 0 !important; z-index: 10050 !important; }
+		/* Place header inside hero banner area */
+		.header-wrapper-absolute {
+			position: absolute !important;
+			top: var(--main-spacers--extra-small, 16px) !important;
+			left: var(--main-spacers--extra-small, 16px) !important;
+			right: var(--main-spacers--extra-small, 16px) !important;
+			z-index: 10050 !important;
+		}
 		.header { position: relative !important; z-index: 10051 !important; overflow: visible !important; background: transparent !important; }
 		.header-logo-dark, .header-logo-white {
 			width: auto !important;
