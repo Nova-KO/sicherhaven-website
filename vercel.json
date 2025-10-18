@@ -49,10 +49,6 @@
       "destination": "/team-single.html"
     },
     {
-      "source": "/404",
-      "destination": "/404.html"
-    },
-    {
       "source": "/blogs/blog-post-1-eventify-community-events",
       "destination": "/blogs/blog-post-1-eventify-community-events.html"
     },
@@ -167,11 +163,6 @@
       "permanent": true
     },
     {
-      "source": "/404.html",
-      "destination": "/404",
-      "permanent": true
-    },
-    {
       "source": "/blog-post-1-eventify-community-events.html",
       "destination": "/blogs/blog-post-1-eventify-community-events",
       "permanent": true
@@ -236,5 +227,7 @@
       "destination": "/blogs/blogpost-templates",
       "permanent": true
     }
-  ]
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
 }
