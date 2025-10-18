@@ -1,0 +1,31 @@
+# Redirect rules for clean URLs
+/about.html /about 301
+/our-team.html /our-team 301
+/PORTFOLIO.html /PORTFOLIO 301
+/blogs.html /blogs 301
+/contact-us.html /contact-us 301
+/blogspage.html /blogspage 301
+/BLOG.html /BLOG 301
+/INVESTORS.html /INVESTORS 301
+/our-team-single.html /our-team-single 301
+/investors-single.html /investors-single 301
+/PORTFOLIO SINGLE.html /PORTFOLIO SINGLE 301
+/team-single.html /team-single 301
+
+# Blog post redirects
+/blog-post-1-eventify-community-events.html /blogs/blog-post-1-eventify-community-events 301
+/blog-post-2-wealthwise-financial-literacy.html /blogs/blog-post-2-wealthwise-financial-literacy 301
+/blog-post-3-ai-community-engagement.html /blogs/blog-post-3-ai-community-engagement 301
+/blog-post-4-mobile-app-development.html /blogs/blog-post-4-mobile-app-development 301
+/blog-post-5-financial-wellness-trends.html /blogs/blog-post-5-financial-wellness-trends 301
+/blog-post-6-community-building-digital-age.html /blogs/blog-post-6-community-building-digital-age 301
+/blog-post-7-startup-development-process.html /blogs/blog-post-7-startup-development-process 301
+/blog-post-8-user-experience-design.html /blogs/blog-post-8-user-experience-design 301
+/blog-post-9-financial-ai-technology.html /blogs/blog-post-9-financial-ai-technology 301
+/blog-post-10-innovation-community-finance.html /blogs/blog-post-10-innovation-community-finance 301
+/ai-financial-technology-blog.html /blogs/ai-financial-technology-blog 301
+/BLOG POST.html /blogs/blog-post 301
+/blogpost-templates.html /blogs/blogpost-templates 301
+
+# Catch-all for 404 errors
+/* /404.html 404
