@@ -10001,123 +10001,11 @@ a.header-logo.w-nav-brand {
 		display: flex;
 	}
 
-/* Ensure dropdown is visible and functional */
-.header-dropdown.w-dropdown {
-    position: relative !important;
-}
+/* Dropdown styling is handled in the header wrapper styles above */
 
-.dropdown-content-wrapper.w-dropdown-list {
-    padding-top: var(--main-spacers--small) !important;
-    background-color: transparent !important;
-    width: 160px !important;
-    max-width: 160px !important;
-    position: absolute !important;
-    top: 100% !important;
-    left: 50% !important;
-    transform: translateX(-50%) !important;
-    z-index: 1000 !important;
-    opacity: 0 !important;
-    visibility: hidden !important;
-    transition: opacity 0.3s ease, visibility 0.3s ease !important;
-}
+/* Dropdown styling is handled in the header wrapper styles above */
 
-/* Make dropdown card background clean white - identical to our-team.html */
-.dropdown-content-card {
-    border: 1px solid var(--core--colors--neutral--200) !important;
-    border-radius: var(--border-radius--br-size-5) !important;
-    background-color: var(--core--colors--neutral--100) !important;
-    box-shadow: 0 4px 4px 0 var(--box-shadow--bs-card-regular), 0 1px 1px 0 var(--box-shadow--bs-card-small) !important;
-    padding: 0 !important;
-    margin: 0 !important;
-}
-
-/* Style dropdown menu items to match screenshot */
-.dropdown-content-card .link-animation-wrapper {
-    display: block !important;
-    padding: 12px 20px !important;
-    color: #333 !important;
-    text-decoration: none !important;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
-}
-
-.dropdown-content-card .link-animation-wrapper:last-child {
-    border-bottom: none !important;
-}
-
-.dropdown-content-card .link-animation-wrapper:hover {
-    background: rgba(0, 0, 0, 0.05) !important;
-    color: #000 !important;
-}
-
-.dropdown-content-card .link-animation-text {
-    font-weight: 500 !important;
-    font-size: 14px !important;
-}
-
-/* Add hover effect identical to our-team.html */
-.header-dropdown:hover .dropdown-content-wrapper {
-    opacity: 1 !important;
-    visibility: visible !important;
-}
-
-/* Force ALL background elements to stay behind dropdown */
-[class*="decoration"],
-[class*="graphic"],
-[class*="shape"],
-[class*="bg-"],
-[class*="background-"],
-[style*="background"],
-[data-w-id*="background"],
-[data-w-id*="decoration"],
-[data-w-id*="graphic"] {
-	z-index: -999 !important;
-	position: relative !important;
-}
-
-/* Ensure dropdown has highest z-index */
-.header-dropdown.w-dropdown {
-    z-index: 9999 !important;
-}
-
-.dropdown-content-wrapper.w-dropdown-list {
-    z-index: 9999 !important;
-}
-
-/* Hide any elements that might be creating white patches */
-[style*="background-color: white"],
-[style*="background: white"],
-[style*="background-color: #fff"],
-[style*="background: #fff"] {
-    background: transparent !important;
-}
-
-/* Ensure main content doesn't interfere with dropdown */
-.section,
-.container,
-[class*="container"] {
-    z-index: 1 !important;
-}
-
-/* Force header to stay above everything */
-.header {
-    z-index: 10000 !important;
-    position: relative !important;
-}
-
-.dropdown-toggle.w-dropdown-toggle {
-	cursor: pointer !important;
-	display: flex !important;
-	align-items: center !important;
-	gap: 4px !important;
-}
-
-.dropdown-icon {
-	transition: transform 0.3s ease !important;
-}
-
-.w--open .dropdown-icon {
-	transform: rotate(180deg) !important;
-}
+/* Dropdown toggle styling is handled by the main CSS */
 </style>
 <div class="header-wrapper-absolute">
 	<style>
@@ -10138,7 +10026,7 @@ a.header-logo.w-nav-brand {
 			max-width: 251.81px !important;
 		}
 
-		/* Match homepage dropdown behaviour/spacing */
+		/* Match our-team.html dropdown behaviour exactly */
 		.header-dropdown { position: relative !important; }
 		.header-dropdown .dropdown-content-wrapper {
 			padding-top: var(--main-spacers--small) !important;
@@ -10159,14 +10047,11 @@ a.header-logo.w-nav-brand {
 			visibility: visible !important;
 		}
 		.dropdown-content-card {
-			box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
-			border-radius: 8px !important;
-			overflow: hidden !important;
+			border: 1px solid var(--core--colors--neutral--200) !important;
+			border-radius: var(--border-radius--br-size-5) !important;
+			background-color: var(--core--colors--neutral--100) !important;
+			box-shadow: 0 4px 4px 0 var(--box-shadow--bs-card-regular), 0 1px 1px 0 var(--box-shadow--bs-card-small) !important;
 		}
-
-		/* Keep text inline like homepage */
-		.dropdown-content-card .link-animation-text,
-		.dropdown-content-card .link-animation-text-absolute { white-space: nowrap !important; display: inline-block !important; }
 	</style>
     <div data-animation="default" class="header w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="7a7443a6-35f8-b340-e299-05abf0e89308" role="banner" data-duration="300" data-w-f--header-v1--variant="dark-mode" data-doc-height="1">
         <div data-w-id="7a7443a6-35f8-b340-e299-05abf0e89309" class="container-default w-container">
