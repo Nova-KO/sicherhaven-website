@@ -9879,16 +9879,61 @@ a.header-logo.w-nav-brand {
 
 <script defer src="https://cdn.jsdelivr.net/npm/@finsweet/attributes-richtext@1/richtext.js"></script></head><body><div class="page-wrapper"><div class="header-wrapper-absolute">
 	<style>
-		/* Ensure header sits above content and doesn't clip dropdown */
-		/* Place header inside hero banner area */
-		.header-wrapper-absolute {
-			position: absolute !important;
-			top: var(--main-spacers--extra-small, 16px) !important;
-			left: var(--main-spacers--extra-small, 16px) !important;
-			right: var(--main-spacers--extra-small, 16px) !important;
-			z-index: 10050 !important;
-		}
-		.header { position: relative !important; z-index: 10051 !important; overflow: visible !important; background: transparent !important; }
+	/* Ensure header sits above content and doesn't clip dropdown */
+	/* Place header inside hero banner area */
+	.header-wrapper-absolute {
+		position: absolute !important;
+		top: var(--main-spacers--extra-small, 16px) !important;
+		left: var(--main-spacers--extra-small, 16px) !important;
+		right: var(--main-spacers--extra-small, 16px) !important;
+		z-index: 10050 !important;
+	}
+	.header { 
+		position: relative !important; 
+		z-index: 10051 !important; 
+		overflow: visible !important; 
+		background: transparent !important; 
+	}
+	
+	/* Fix header background graphic overlap */
+	.header::before,
+	.header::after,
+	.header *::before,
+	.header *::after {
+		z-index: -1 !important;
+	}
+	
+	/* Ensure main content has proper spacing from header */
+	.section.top-small {
+		margin-top: 120px !important;
+		padding-top: 40px !important;
+	}
+	
+	/* Fix any background graphics that might overlap */
+	[class*="bg-"],
+	[class*="background-"],
+	[style*="background"] {
+		z-index: -1 !important;
+	}
+	
+	/* Ensure header content doesn't overlap with main content */
+	.header-content {
+		position: relative !important;
+		z-index: 10052 !important;
+		background: rgba(255, 255, 255, 0.95) !important;
+		backdrop-filter: blur(10px) !important;
+		border-radius: 12px !important;
+		padding: 16px 24px !important;
+		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1) !important;
+	}
+	
+	/* Fix any decorative elements that might overlap */
+	[data-w-id*="header"],
+	[class*="decoration"],
+	[class*="graphic"] {
+		z-index: -1 !important;
+		pointer-events: none !important;
+	}
 		.header-logo-dark, .header-logo-white {
 			width: auto !important;
 			height: 80px !important;
