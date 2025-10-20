@@ -10085,6 +10085,32 @@ a.header-logo.w-nav-brand {
 			unicode-bidi: normal !important;
 			direction: ltr !important;
 		}
+
+		/* Aggressive fix for vertical text issue */
+		.dropdown-content-card,
+		.dropdown-content-card *,
+		.dropdown-content-card a,
+		.dropdown-content-card .dropdown-link {
+			writing-mode: horizontal-tb !important;
+			text-orientation: mixed !important;
+			unicode-bidi: normal !important;
+			direction: ltr !important;
+			display: block !important;
+			white-space: nowrap !important;
+			overflow: visible !important;
+			text-align: left !important;
+			line-height: normal !important;
+			letter-spacing: normal !important;
+			word-spacing: normal !important;
+		}
+
+		/* Override any conflicting styles */
+		.dropdown-content-wrapper * {
+			writing-mode: horizontal-tb !important;
+			text-orientation: mixed !important;
+			unicode-bidi: normal !important;
+			direction: ltr !important;
+		}
 	</style>
     <div data-animation="default" class="header w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="7a7443a6-35f8-b340-e299-05abf0e89308" role="banner" data-duration="300" data-w-f--header-v1--variant="dark-mode" data-doc-height="1">
         <div data-w-id="7a7443a6-35f8-b340-e299-05abf0e89309" class="container-default w-container">
