@@ -10053,13 +10053,21 @@ a.header-logo.w-nav-brand {
 			box-shadow: 0 4px 4px 0 var(--box-shadow--bs-card-regular), 0 1px 1px 0 var(--box-shadow--bs-card-small) !important;
 		}
 
-		/* Style simplified dropdown links */
-		.dropdown-content-card .dropdown-link {
+		/* Style new dropdown structure */
+		.dropdown-content-card .dropdown-item {
 			display: block !important;
 			padding: 12px 20px !important;
+			border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
+		}
+
+		.dropdown-content-card .dropdown-item:last-child {
+			border-bottom: none !important;
+		}
+
+		.dropdown-content-card .dropdown-item a {
+			display: block !important;
 			color: #333 !important;
 			text-decoration: none !important;
-			border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
 			font-size: 14px !important;
 			line-height: 1.4 !important;
 			white-space: nowrap !important;
@@ -10069,12 +10077,11 @@ a.header-logo.w-nav-brand {
 			direction: ltr !important;
 		}
 
-		.dropdown-content-card .dropdown-link:last-child {
-			border-bottom: none !important;
+		.dropdown-content-card .dropdown-item:hover {
+			background: rgba(0, 0, 0, 0.05) !important;
 		}
 
-		.dropdown-content-card .dropdown-link:hover {
-			background: rgba(0, 0, 0, 0.05) !important;
+		.dropdown-content-card .dropdown-item:hover a {
 			color: #000 !important;
 		}
 
@@ -10132,9 +10139,9 @@ a.header-logo.w-nav-brand {
                                     </div>
                                     <nav class="dropdown-content-wrapper w-dropdown-list">
                                         <div class="card dropdown-content-card">
-                                            <a href="/about" class="dropdown-link">About Us</a>
-                                            <a href="/our-team" class="dropdown-link">Team</a>
-                                            <a href="/PORTFOLIO" class="dropdown-link">Product</a>
+                                            <div class="dropdown-item"><a href="/about">About Us</a></div>
+                                            <div class="dropdown-item"><a href="/our-team">Team</a></div>
+                                            <div class="dropdown-item"><a href="/PORTFOLIO">Product</a></div>
                                         </div>
                                     </nav>
                                 </div>
