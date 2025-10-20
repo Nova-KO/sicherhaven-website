@@ -10062,6 +10062,11 @@ a.header-logo.w-nav-brand {
 			border-bottom: 1px solid rgba(0, 0, 0, 0.05) !important;
 			font-size: 14px !important;
 			line-height: 1.4 !important;
+			white-space: nowrap !important;
+			writing-mode: horizontal-tb !important;
+			text-orientation: mixed !important;
+			unicode-bidi: normal !important;
+			direction: ltr !important;
 		}
 
 		.dropdown-content-card .dropdown-link:last-child {
@@ -10071,6 +10076,14 @@ a.header-logo.w-nav-brand {
 		.dropdown-content-card .dropdown-link:hover {
 			background: rgba(0, 0, 0, 0.05) !important;
 			color: #000 !important;
+		}
+
+		/* Force all text inside dropdown to be horizontal */
+		.dropdown-content-card * {
+			writing-mode: horizontal-tb !important;
+			text-orientation: mixed !important;
+			unicode-bidi: normal !important;
+			direction: ltr !important;
 		}
 	</style>
     <div data-animation="default" class="header w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="7a7443a6-35f8-b340-e299-05abf0e89308" role="banner" data-duration="300" data-w-f--header-v1--variant="dark-mode" data-doc-height="1">
