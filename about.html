@@ -9800,20 +9800,6 @@ figure {
 }
 }
 
-/* Hide the Investors section */
-.investors-grid-v1 {
-  display: none !important;
-}
-
-/* Hide the specific data-w-id element */
-div[data-w-id="506c6d6f-240e-64ef-f9cc-9979b26e20ea"] {
-  display: none !important;
-}
-
-/* Hide any section containing investors grid */
-section:has(.investors-grid-v1) {
-  display: none !important;
-}
 
 /* Ensure content is visible immediately - override GSAP animations */
 .section,
@@ -9870,26 +9856,6 @@ gsap.registerPlugin(ScrollTrigger, SplitText, Observer);
 document.addEventListener("DOMContentLoaded", function() {
     initMarqueeAnimation();
     initCounterAnimation();
-    
-    // Hide the Investors section
-    setTimeout(function() {
-        const investorsSection = document.querySelector('div[data-w-id="506c6d6f-240e-64ef-f9cc-9979b26e20ea"]');
-        if (investorsSection) {
-            investorsSection.style.display = 'none';
-        }
-        
-        // Also hide the entire section containing the investors grid
-        const sectionWithInvestors = document.querySelector('section:has(.investors-grid-v1)');
-        if (sectionWithInvestors) {
-            sectionWithInvestors.style.display = 'none';
-        }
-        
-        // Hide any container with investors grid
-        const containersWithInvestors = document.querySelectorAll('.container-default:has(.investors-grid-v1)');
-        containersWithInvestors.forEach(function(container) {
-            container.style.display = 'none';
-        });
-    }, 100);
 });
 
 // Create clean navigation with only: Home | Company (dropdown) | Blog | Get started
