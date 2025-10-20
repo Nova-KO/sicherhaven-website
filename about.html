@@ -9892,6 +9892,74 @@ document.addEventListener("DOMContentLoaded", function() {
     }, 100);
 });
 
+// Create clean navigation with only: Home | Company (dropdown) | Blog | Get started
+document.addEventListener('DOMContentLoaded', function() {
+  try {
+    const navList = document.querySelector('.list-nav-menu');
+    if (navList) {
+      // Clear existing navigation and create clean structure
+      navList.innerHTML = '';
+
+      // 1. Home
+      const homeLi = document.createElement('li');
+      homeLi.className = 'link-nav-item';
+      homeLi.innerHTML = '<a href="/" class="nav-link w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0 w-nav-link" style="max-width: 1208px;">Home</a>';
+      navList.appendChild(homeLi);
+
+      // 2. Company (dropdown)
+      const companyLi = document.createElement('li');
+      companyLi.className = 'link-nav-item';
+      companyLi.innerHTML = '<div data-hover="true" data-delay="0" data-w-id="7a7443a6-35f8-b340-e299-05abf0e89316" class="header-dropdown w-dropdown" style="max-width: 1208px;"><div class="dropdown-toggle w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0 w-dropdown-toggle" id="w-dropdown-toggle-0" aria-controls="w-dropdown-list-0" aria-haspopup="menu" aria-expanded="false" role="button" tabindex="0"><div>Company</div><div class="icon-font-rounded dropdown-icon"></div></div><nav class="dropdown-content-wrapper w-dropdown-list" id="w-dropdown-list-0" aria-labelledby="w-dropdown-toggle-0" style="display: none; opacity: 0;"><div class="card dropdown-content-card"><div class="w-layout-grid main-pages-grid"><div class="w-layout-grid dropdown-pages-column"><a href="about" class="link-animation-wrapper w-inline-block"><div class="link-animation-text">About Us</div><div class="link-animation-text-absolute">About Us</div></a><a href="our-team" class="link-animation-wrapper w-inline-block"><div class="link-animation-text">Our Team</div><div class="link-animation-text-absolute">Our Team</div></a><a href="contact-us" class="link-animation-wrapper w-inline-block"><div class="link-animation-text">Contact</div><div class="link-animation-text-absolute">Contact</div></a></div></div></div></nav></div>';
+      navList.appendChild(companyLi);
+
+      // 3. Blog
+      const blogLi = document.createElement('li');
+      blogLi.className = 'link-nav-item';
+      blogLi.innerHTML = '<a href="blogs" class="nav-link w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0 w-nav-link" style="max-width: 1208px;">Blog</a>';
+      navList.appendChild(blogLi);
+
+      // 4. Get started (mobile only)
+      const ctaLi = document.createElement('li');
+      ctaLi.className = 'link-nav-item show-on-mbl';
+      ctaLi.innerHTML = '<a href="contact-us" class="primary-button w-inline-block"><div class="button-content-flex gap-0"><div>Get started</div></div></a>';
+      navList.appendChild(ctaLi);
+    }
+
+    // Ensure desktop CTA button is properly set
+    const ctaButton = document.querySelector('.primary-button');
+    if (ctaButton && !ctaButton.closest('.list-nav-menu')) {
+      ctaButton.setAttribute('href', 'contact-us.html');
+      const ctaLabel = ctaButton.querySelector('.button-content-flex div');
+      if (ctaLabel) ctaLabel.textContent = 'Get started';
+    }
+  } catch (e) { /* ignore */ }
+});
+
+// Ensure dropdown functionality works
+document.addEventListener('DOMContentLoaded', function() {
+  // Initialize Webflow dropdowns if they exist
+  if (window.Webflow) {
+    window.Webflow.push(function() {
+      // Force reinitialize dropdowns
+      $('.w-dropdown').each(function() {
+        if (!$(this).hasClass('w--open')) {
+          $(this).removeClass('w--open');
+        }
+      });
+    });
+  }
+  
+  // Add hover functionality to work with CSS hover
+  document.querySelectorAll('.header-dropdown').forEach(dropdown => {
+    const dropdownList = dropdown.querySelector('.dropdown-content-wrapper');
+    if (dropdownList) {
+      // Ensure dropdown is hidden by default
+      dropdownList.style.opacity = '0';
+      dropdownList.style.visibility = 'hidden';
+    }
+  });
+});
+
 // ============================================
 // MARQUEE SCROLL ANIMATION
 // ============================================
