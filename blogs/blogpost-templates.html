@@ -4168,10 +4168,51 @@ figure {
 .header-logo {
   transform-style: preserve-3d;
   width: 100%;
-  max-width: 152px;
+  max-width: 251.81px;
   padding-left: 0;
   transition: transform .3s;
 }
+
+.header-logo.w-nav-brand {
+  max-width: 251.81px !important;
+  width: 251.81px !important;
+  height: 80px !important;
+  display: block !important;
+  overflow: hidden !important;
+}
+
+a.header-logo.w-nav-brand {
+  max-width: 251.81px !important;
+  width: 251.81px !important;
+  height: 80px !important;
+}
+
+.header-content a.header-logo.w-nav-brand {
+  max-width: 251.81px !important;
+  width: 251.81px !important;
+  height: 80px !important;
+}
+
+.header-logo-dark {
+  width: 251.81px !important;
+  height: 80px !important;
+  max-width: 251.81px !important;
+  object-fit: contain !important;
+  object-position: left center !important;
+  transform: none !important;
+  transform-origin: left center !important;
+  display: block !important;
+}
+
+.header-logo-white {
+  width: auto !important;
+  height: 80px !important;
+  max-width: 251.81px !important;
+  object-fit: contain !important;
+}
+
+.header-logo.w-nav-brand .header-logo-dark,
+.header-logo.w-nav-brand .header-logo-white { max-width: 251.81px !important; }
 
 .header-logo:hover {
   transform: scale3d(1.04, 1.04, 1.01);
@@ -6850,6 +6891,7 @@ figure {
 }
 
 .brix-badges-wrapper {
+  display: none !important;
   z-index: 99999999;
   width: 310px;
   height: 120px;
@@ -6869,6 +6911,7 @@ figure {
 }
 
 .more-templates-badge-wrapper {
+  display: none !important;
   z-index: 9991;
   grid-column-gap: 10px;
   grid-row-gap: 10px;
@@ -6884,7 +6927,6 @@ figure {
   padding: 12px 22px 12px 18px;
   text-decoration: none;
   transition-property: none;
-  display: flex;
   position: absolute;
   transform: scale(.9)translate(0, 20px);
   box-shadow: 0 .6px .8px #1010650a, 0 3px 6px #11115414;
@@ -8148,7 +8190,7 @@ figure {
   }
 
   .header-logo {
-    max-width: 120px;
+    max-width: 640px;
   }
 
   .nav-menu {
