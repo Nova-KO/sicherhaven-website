@@ -21,6 +21,10 @@
       "destination": "/contact-us.html"
     },
     {
+      "source": "/contact",
+      "destination": "/contact.html"
+    },
+    {
       "source": "/blogspage",
       "destination": "/blogspage.html"
     },

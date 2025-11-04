@@ -15,6 +15,7 @@ const rewrites = [
   { source: '/PORTFOLIO', destination: '/PORTFOLIO.html' },
   { source: '/blogs', destination: '/blogs.html' },
   { source: '/contact-us', destination: '/contact-us.html' },
+  { source: '/contact', destination: '/contact.html' },
   { source: '/blogspage', destination: '/blogspage.html' },
   { source: '/BLOG', destination: '/BLOG.html' },
   { source: '/INVESTORS', destination: '/INVESTORS.html' },
