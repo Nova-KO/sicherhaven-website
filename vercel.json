@@ -1,6 +1,14 @@
 {
   "rewrites": [
     {
+      "source": "/eventify-app",
+      "destination": "/eventify-app.html"
+    },
+    {
+      "source": "/wealthwise",
+      "destination": "/wealthwise.html"
+    },
+    {
       "source": "/about",
       "destination": "/about.html"
     },
