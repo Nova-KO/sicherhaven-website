@@ -1,0 +1,16 @@
+{
+  "name": "sicherhaven-website",
+  "version": "1.0.0",
+  "description": "Sicherhaven Technologies Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["website", "sicherhaven", "static"],
+  "author": "Sicherhaven Technologies",
+  "license": "MIT"
+}

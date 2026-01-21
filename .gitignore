@@ -1,0 +1,10 @@
+.vercel
+*.log
+.DS_Store
+Param.Sundari.*.mkv
+*.mp4
+*.mov
+node_modules/
+.cache/
+__pycache__/
+*.pyc
