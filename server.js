@@ -75,7 +75,7 @@ const createTransporter = () => {
       }
     });
   }
-  
+
   // Default: Use Gmail with OAuth2 or App Password
   // For Gmail, you'll need to use an App Password or OAuth2
   return nodemailer.createTransport({
@@ -94,9 +94,9 @@ app.post('/api/contact', async (req, res) => {
 
     // Validate required fields
     if (!firstName || !lastName || !Email) {
-      return res.status(400).json({ 
-        success: false, 
-        error: 'Missing required fields' 
+      return res.status(400).json({
+        success: false,
+        error: 'Missing required fields'
       });
     }
 
@@ -152,16 +152,31 @@ This email was sent from the Sicherhaven contact form.
 
     await Promise.all(emailPromises);
 
-    res.json({ 
-      success: true, 
-      message: 'Form submitted successfully. We will get back to you soon!' 
+    // Send data to Google Sheets
+    try {
+      const googleSheetUrl = 'https://script.google.com/macros/s/AKfycbyNJJ9yW6ueaPNT3vR_2dVQlryD82xmJD_7VneHaTxKr26dAae2EQw0FlNf0PAx_RDo/exec';
+      await fetch(googleSheetUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(req.body)
+      });
+    } catch (sheetError) {
+      console.error('Google Sheets error:', sheetError);
+      // We don't fail the request if the sheet update fails, as the email was sent successfully
+    }
+
+    res.json({
+      success: true,
+      message: 'Form submitted successfully. We will get back to you soon!'
     });
 
   } catch (error) {
     console.error('Error sending email:', error);
-    res.status(500).json({ 
-      success: false, 
-      error: 'Failed to send email notification. Please try again later.' 
+    res.status(500).json({
+      success: false,
+      error: 'Failed to send email notification. Please try again later.'
     });
   }
 });

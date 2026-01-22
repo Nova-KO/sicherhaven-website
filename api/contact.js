@@ -47,6 +47,21 @@ export default async function handler(req, res) {
       html: htmlContent
     });
 
+    // Send data to Google Sheets
+    try {
+      const googleSheetUrl = 'https://script.google.com/macros/s/AKfycbyNJJ9yW6ueaPNT3vR_2dVQlryD82xmJD_7VneHaTxKr26dAae2EQw0FlNf0PAx_RDo/exec';
+      await fetch(googleSheetUrl, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(req.body)
+      });
+    } catch (sheetError) {
+      console.error('Google Sheets error:', sheetError);
+      // We don't fail the request if the sheet update fails, as the email was sent successfully
+    }
+
     res.status(200).json({ success: true, message: 'Email sent successfully' });
   } catch (error) {
     console.error('Email error:', error);
