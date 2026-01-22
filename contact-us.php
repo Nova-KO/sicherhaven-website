@@ -404,7 +404,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const submitButton = form.querySelector('input[type="submit"]');
     const originalButtonText = submitButton.value;
 
-    const scriptURL = 'https://formsubmit.co/ajax/anjali@sicherhaven.com';
+    const scriptURL = '/api/contact';
 
     form.addEventListener('submit', e => {
         e.preventDefault();
@@ -417,21 +417,28 @@ document.addEventListener('DOMContentLoaded', function() {
         successMessage.style.display = 'none';
         errorMessage.style.display = 'none';
 
+        // Convert FormData to JSON object
         const formData = new FormData(form);
-        
+        const data = Object.fromEntries(formData.entries());
+
         fetch(scriptURL, {
             method: 'POST',
-            body: formData,
+            body: JSON.stringify(data),
             headers: {
+                'Content-Type': 'application/json',
                 'Accept': 'application/json'
             }
         })
         .then(response => response.json())
         .then(data => {
-            console.log('Success!', data);
-            form.style.display = 'none';
-            successMessage.style.display = 'block';
-            form.reset();
+            if (data.success) {
+                console.log('Success!', data);
+                form.style.display = 'none';
+                successMessage.style.display = 'block';
+                form.reset();
+            } else {
+                throw new Error(data.error || 'Submission failed');
+            }
         })
         .catch(error => {
             console.error('Error!', error.message);
