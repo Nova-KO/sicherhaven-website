@@ -1,0 +1,139 @@
+<div class="header-wrapper-absolute">
+	<style>
+		/* Ensure header sits above content and doesn't clip dropdown */
+		/* Place header inside hero banner area */
+		.header-wrapper-absolute {
+			position: absolute !important;
+			top: var(--main-spacers--extra-small, 16px) !important;
+			left: var(--main-spacers--extra-small, 16px) !important;
+			right: var(--main-spacers--extra-small, 16px) !important;
+			z-index: 10050 !important;
+		}
+		.header { position: relative !important; z-index: 10051 !important; overflow: visible !important; background: transparent !important; }
+		.header-logo-dark, .header-logo-white {
+			width: auto !important;
+			height: 80px !important;
+			object-fit: contain !important;
+			max-width: 251.81px !important;
+		}
+
+		/* Match homepage dropdown behaviour/spacing */
+		.header-dropdown { position: relative !important; }
+		.header-dropdown .dropdown-content-wrapper {
+			padding-top: var(--main-spacers--small) !important;
+			background-color: transparent !important;
+			width: 160px !important;
+			max-width: 160px !important;
+			position: absolute !important;
+			top: 100% !important;
+			left: 50% !important;
+			transform: translateX(-50%) !important;
+			z-index: 1000 !important;
+			opacity: 0 !important;
+			visibility: hidden !important;
+			transition: opacity 0.3s ease, visibility 0.3s ease !important;
+		}
+		.header-dropdown:hover .dropdown-content-wrapper {
+			opacity: 1 !important;
+			visibility: visible !important;
+		}
+		.dropdown-content-card {
+			box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1) !important;
+			border-radius: 8px !important;
+			overflow: hidden !important;
+		}
+
+		/* Keep text inline like homepage */
+		.dropdown-content-card .link-animation-text,
+		.dropdown-content-card .link-animation-text-absolute { white-space: nowrap !important; display: inline-block !important; }
+
+		/* Hide any Blog link injected by legacy pages/scripts */
+		.nav-menu a[href^="blogs"],
+		.nav-menu a[href$="/blogs"],
+		.nav-menu a[href*="/blogs"],
+		.nav-menu a[href="blogs"],
+		.nav-menu a[href="blogs.html"] { display: none !important; }
+	</style>
+    <div data-animation="default" class="header w-nav" data-easing2="ease" data-easing="ease" data-collapse="medium" data-w-id="7a7443a6-35f8-b340-e299-05abf0e89308" role="banner" data-duration="300" data-wf--header-v1--variant="dark-mode" data-doc-height="1">
+        <div data-w-id="7a7443a6-35f8-b340-e299-05abf0e89309" class="container-default w-container">
+            <div class="header-content">
+                <a href="index.html" class="header-logo w-nav-brand">
+        <img src="img/logov2.png" loading="eager" alt="Sicherhaven Logo" class="header-logo-dark w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0" />
+        <img src="img/logov2.png" loading="eager" alt="Sicherhaven Logo" class="header-logo-white w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0" />
+                </a>
+                <div class="header-right-side">
+                    <nav role="navigation" class="nav-menu w-nav-menu">
+                        <ul role="list" class="list-nav-menu w-list-unstyled">
+                            <li class="link-nav-item">
+                                <a href="index.html" class="nav-link w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0 w-nav-link w--current">Home</a>
+                            </li>
+                            <li class="link-nav-item">
+                                <div data-hover="true" data-delay="0" data-w-id="7a7443a6-35f8-b340-e299-05abf0e89316" class="header-dropdown w-dropdown">
+                                    <div class="dropdown-toggle w-variant-25734495-5c3c-0d57-de24-b12d3c5fcea0 w-dropdown-toggle">
+                                        <div>Company</div>
+                                        <div class="icon-font-rounded dropdown-icon"></div>
+                                    </div>
+                                    <nav class="dropdown-content-wrapper w-dropdown-list">
+                                        <div class="card dropdown-content-card">
+                                            <div class="w-layout-grid main-pages-grid">
+                                                <div class="w-layout-grid dropdown-pages-column">
+                                                    <a href="about.html" class="link-animation-wrapper w-inline-block">
+                                                        <div class="link-animation-text">About Us</div>
+                                                        <div class="link-animation-text-absolute">About Us</div>
+                                                    </a>
+                                                    <a href="our-team.html" class="link-animation-wrapper w-inline-block">
+                                                        <div class="link-animation-text">Team</div>
+                                                        <div class="link-animation-text-absolute">Team</div>
+                                                    </a>
+                                                    <a href="PORTFOLIO.html" class="link-animation-wrapper w-inline-block">
+                                                        <div class="link-animation-text">Product</div>
+                                                        <div class="link-animation-text-absolute">Product</div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </nav>
+                                </div>
+                            </li>
+                            
+                            <li class="link-nav-item show-on-mbl">
+                                <a id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb" data-wf--primary-button--variant="base" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" href="contact-us.html" class="primary-button w-inline-block">
+                                    <div class="button-content-flex gap-0">
+                                        <div>Get started</div>
+                                        <div class="button-icon-wrapper">
+                                            <div class="button-icon">
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="14px" viewBox="0 0 16 15" fill="none" class="button-arrow">
+                                                    <path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                                </svg>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="hidden-on-mobile-landscape">
+                        <a id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb" data-wf--primary-button--variant="base" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" href="contact-us.html" class="primary-button w-inline-block">
+                            <div class="button-content-flex gap-0">
+                                <div>Get started</div>
+                                <div class="button-icon-wrapper">
+                                    <div class="button-icon">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="14px" viewBox="0 0 16 15" fill="none" class="button-arrow">
+                                            <path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="hamburger-menu w-nav-button">
+                        <div class="hamburger-menu-flex">
+                            <div class="hamburger-menu-line top"></div>
+                            <div class="hamburger-menu-line bottom"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
