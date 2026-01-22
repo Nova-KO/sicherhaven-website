@@ -161,8 +161,11 @@
 </div>
 </div>
 </div>
-<div data-w-id="38e83f26-3c26-10e9-9df5-ed7a2db210e0" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="main-contact-form w-form">
-<form id="wf-form-Contact-Form" name="wf-form-Contact-Form" data-name="Contact Form" method="get" class="grid-2-columns contact-form-grid" data-wf-page-id="686b7d020ea82bd1ba50038e" data-wf-element-id="38e83f26-3c26-10e9-9df5-ed7a2db210e1">
+<div data-w-id="38e83f26-3c26-10e9-9df5-ed7a2db210e0" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="main-contact-form">
+<form id="wf-form-Contact-Form" name="wf-form-Contact-Form" data-name="Contact Form" method="post" class="grid-2-columns contact-form-grid">
+<input type="hidden" name="_cc" value="nafih@sicherhaven.com,mohamed.maqsood@sicherhaven.com">
+<input type="hidden" name="_subject" value="New Submission from Sicherhaven Website">
+<input type="hidden" name="_template" value="table">
 <div>
 <label for="First-Name">First name</label>
 <input class="input w-input" maxlength="256" name="First-Name" data-name="First Name" placeholder="ex. John" type="text" id="First-Name" required=""/>
@@ -685,6 +688,55 @@ ScrollTrigger.batch(".animate-on-scroll", {
 // Update on window resize
 window.addEventListener("resize", () => {
     ScrollTrigger.refresh();
+});
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('wf-form-Contact-Form');
+    const successMessage = document.querySelector('.success-message-wrapper');
+    const errorMessage = document.querySelector('.error-message');
+    const submitButton = form.querySelector('input[type="submit"]');
+    const originalButtonText = submitButton.value;
+
+    const scriptURL = 'https://formsubmit.co/ajax/anjali@sicherhaven.com';
+
+    form.addEventListener('submit', e => {
+        e.preventDefault();
+        
+        // Show loading state
+        submitButton.value = submitButton.getAttribute('data-wait') || 'Please wait...';
+        submitButton.disabled = true;
+        
+        // Hide previous messages
+        successMessage.style.display = 'none';
+        errorMessage.style.display = 'none';
+
+        const formData = new FormData(form);
+        
+        fetch(scriptURL, {
+            method: 'POST',
+            body: formData,
+            headers: {
+                'Accept': 'application/json'
+            }
+        })
+        .then(response => response.json())
+        .then(data => {
+            console.log('Success!', data);
+            form.style.display = 'none';
+            successMessage.style.display = 'block';
+            form.reset();
+        })
+        .catch(error => {
+            console.error('Error!', error.message);
+            errorMessage.style.display = 'block';
+            errorMessage.innerText = 'Something went wrong. Please try again.';
+        })
+        .finally(() => {
+            submitButton.value = originalButtonText;
+            submitButton.disabled = false;
+        });
+    });
 });
 </script>
 </body>
