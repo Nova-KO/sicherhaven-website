@@ -22,7 +22,8 @@ export default async function handler(req, res) {
   const recipients = [
     'nafih@sicherhaven.com',
     'anjali@sicherhaven.com',
-    'mohamed.maqsood@sicherhaven.com'
+    'mohamed.maqsood@sicherhaven.com',
+    'anjali@bshtechnologies.in'
   ];
 
   const subject = `New Contact Form Submission from ${firstName} ${lastName}`;
