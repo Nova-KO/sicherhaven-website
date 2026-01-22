@@ -1,14 +1,6 @@
 {
   "rewrites": [
     {
-      "source": "/eventify-app",
-      "destination": "/eventify-app.html"
-    },
-    {
-      "source": "/wealthwise",
-      "destination": "/wealthwise.html"
-    },
-    {
       "source": "/about",
       "destination": "/about.html"
     },
@@ -241,5 +233,10 @@
     }
   ],
   "cleanUrls": true,
-  "trailingSlash": false
+  "trailingSlash": false,
+  "functions": {
+    "api/contact.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
 }
