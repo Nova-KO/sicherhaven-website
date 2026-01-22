@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html data-wf-domain="investflowtemplate.webflow.io" data-wf-page="686b7d020ea82bd1ba500387" data-wf-site="686b7d020ea82bd1ba5003a8" lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Sicherhaven - Building innovative solutions for community events and financial wellness</title>
+<meta content="Building innovative solutions for community events and financial wellness. Discover how Eventify and WealthWise are transforming the way people connect and manage their finances." name="description"/>
+<meta content="Sicherhaven - Building innovative solutions for community events and financial wellness" property="og:title"/>
+<meta content="Building innovative solutions for community events and financial wellness. Discover how Eventify and WealthWise are transforming the way people connect and manage their finances." property="og:description"/>
+<meta content="img/logov2.png" property="og:image"/>
+<meta content="Investflow - Webflow HTML website template" property="twitter:title"/>
+<meta content="Create a strong online presence with Investflow, a sleek and responsive Investment Firm Webflow Template tailored for private equity and asset management firms." property="twitter:description"/>
+<meta content="website" property="og:type"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="Webflow" name="generator"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="anonymous" href="https://fonts.gstatic.com" rel="preconnect"/>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript">
+</script>
+<script type="text/javascript">WebFont.load({  google: {    families: ["Inter Tight:regular,500,600,700"]  }});</script>
+<script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+<link href="https://cdn.prod.website-files.com/686b7d020ea82bd1ba5003a8/686b7f3f263dce9600631e6c_webclip-equity-webflow-template.svg" rel="apple-touch-icon"/>
+
+
+<link rel="icon" type="image/svg+xml" href="favicon.svg"/>
+<link rel="shortcut icon" type="image/svg+xml" href="favicon.svg"/>
+<link href="css/style.css?v=2" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<div class="page-wrapper">
+<?php include 'header.php'; ?>
+<div class="hero-wrapper">
+<section class="section hero-v1" data-w-id="2bd36ac3-0ccc-d008-cef5-4e21ba15c672" style="opacity:0;filter:blur(8px)">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="inner-container---500px" data-w-id="150452fc-6bad-a647-1496-a518d75ca9cc" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<h1 class="text-light">Sicherhaven - Building Innovative Solutions for Community Events and Financial Wellness</h1>
+<div class="mg-top-3x-extra-small">
+<div class="inner-container---435px">
+<p class="text-paragraph-light">Sicherhaven is a product-based company focused on creating innovative solutions that enhance community engagement and financial literacy. We develop cutting-edge applications that connect people with local events and empower them to take control of their financial future.</p>
+</div>
+</div>
+<div class="mg-top-small">
+<div class="buttons-row left">
+<a class="primary-button w-inline-block" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" data-wf--primary-button--variant="base" href="/contact-us.php" id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb">
+<div class="button-content-flex gap-0">
+<div>Get started</div>
+<div class="button-icon-wrapper">
+<div class="button-icon">
+<svg class="button-arrow" fill="none" viewbox="0 0 16 15" width="14px" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section class="section logo-strip-v1">
+<div class="logo-strip-marquee-wrapper" data-w-id="69986fb9-962f-965d-0e73-eefb820215ef" style="opacity:0;filter:blur(8px)">
+<div class="logo-strip-marquee marquee-scroll-item">
+<img alt="Vireon Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe03cbf96301dc232d6_vireon-logo-equity-webflow-template.svg" width="125"/>
+<img alt="Linkora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2a4a6b066bda0877_linkora-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Converra Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2f1728bde1626516_converra-logo-equity-webflow-template.svg" width="161"/>
+<img alt="Nexora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdefec0458ae1d643ae_nexora-logo-equity-webflow-template.svg" width="134"/>
+<img alt="Socium Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe0480e7dca3a52e89b_socium-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Bridgr Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdf1113a08a8dfc589d_bridgr-logo-equity-webflow-template.svg" width="130"/>
+<img alt="Netspire Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdecd6eb3a15b73ca9c_netspire-logo-equity-webflow-template.svg" width="149"/>
+</div>
+<div class="logo-strip-marquee marquee-scroll-item">
+<img alt="Vireon Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe03cbf96301dc232d6_vireon-logo-equity-webflow-template.svg" width="125"/>
+<img alt="Linkora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2a4a6b066bda0877_linkora-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Converra Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2f1728bde1626516_converra-logo-equity-webflow-template.svg" width="161"/>
+<img alt="Nexora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdefec0458ae1d643ae_nexora-logo-equity-webflow-template.svg" width="134"/>
+<img alt="Socium Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe0480e7dca3a52e89b_socium-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Bridgr Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdf1113a08a8dfc589d_bridgr-logo-equity-webflow-template.svg" width="130"/>
+<img alt="Netspire Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdecd6eb3a15b73ca9c_netspire-logo-equity-webflow-template.svg" width="149"/>
+</div>
+<div class="logo-strip-marquee marquee-scroll-item">
+<img alt="Vireon Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe03cbf96301dc232d6_vireon-logo-equity-webflow-template.svg" width="125"/>
+<img alt="Linkora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2a4a6b066bda0877_linkora-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Converra Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2f1728bde1626516_converra-logo-equity-webflow-template.svg" width="161"/>
+<img alt="Nexora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdefec0458ae1d643ae_nexora-logo-equity-webflow-template.svg" width="134"/>
+<img alt="Socium Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe0480e7dca3a52e89b_socium-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Bridgr Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdf1113a08a8dfc589d_bridgr-logo-equity-webflow-template.svg" width="130"/>
+<img alt="Netspire Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdecd6eb3a15b73ca9c_netspire-logo-equity-webflow-template.svg" width="149"/>
+</div>
+<div class="logo-strip-marquee marquee-scroll-item">
+<img alt="Vireon Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe03cbf96301dc232d6_vireon-logo-equity-webflow-template.svg" width="125"/>
+<img alt="Linkora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2a4a6b066bda0877_linkora-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Converra Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2f1728bde1626516_converra-logo-equity-webflow-template.svg" width="161"/>
+<img alt="Nexora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdefec0458ae1d643ae_nexora-logo-equity-webflow-template.svg" width="134"/>
+<img alt="Socium Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe0480e7dca3a52e89b_socium-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Bridgr Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdf1113a08a8dfc589d_bridgr-logo-equity-webflow-template.svg" width="130"/>
+<img alt="Netspire Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdecd6eb3a15b73ca9c_netspire-logo-equity-webflow-template.svg" width="149"/>
+</div>
+<div class="logo-strip-marquee marquee-scroll-item">
+<img alt="Vireon Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe03cbf96301dc232d6_vireon-logo-equity-webflow-template.svg" width="125"/>
+<img alt="Linkora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2a4a6b066bda0877_linkora-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Converra Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbde2f1728bde1626516_converra-logo-equity-webflow-template.svg" width="161"/>
+<img alt="Nexora Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdefec0458ae1d643ae_nexora-logo-equity-webflow-template.svg" width="134"/>
+<img alt="Socium Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbe0480e7dca3a52e89b_socium-logo-equity-webflow-template.svg" width="150"/>
+<img alt="Bridgr Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdf1113a08a8dfc589d_bridgr-logo-equity-webflow-template.svg" width="130"/>
+<img alt="Netspire Logo - Equity - Webflow Template | BRIX Templates" class="logo-strip-logo" height="40" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdbdecd6eb3a15b73ca9c_netspire-logo-equity-webflow-template.svg" width="149"/>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="title-left-content-right" data-w-id="c3283159-59fd-c33c-5e3f-77d3854276dd" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div>
+<div class="text-color-neutral-400">Our team</div>
+<h2>Our team</h2>
+</div>
+<a class="primary-button w-inline-block" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" data-wf--primary-button--variant="base" href="/contact-us.php" id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb">
+<div class="button-content-flex gap-0">
+<div>Get started</div>
+<div class="button-icon-wrapper">
+<div class="button-icon">
+<svg class="button-arrow" fill="none" viewbox="0 0 16 15" width="14px" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="divider mg-regular" data-w-id="b1642331-2c6e-4b6f-c3ec-d2b0f893d243" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)">
+</div>
+<img alt="About Our Invest Firm - Equity - Webflow Template | BRIX Templates" class="image border-image" data-w-id="00263206-51d5-94af-b349-275c3451053d" height="924" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template.jpg" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template-p-800.jpg 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template-p-1080.jpg 1080w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template-p-1600.jpg 1600w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template-p-2000.jpg 2000w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686cdfc03cbf96301dc628f4_about-our-invest-firm-equity-webflow-template.jpg 3474w" style="opacity:0;filter:blur(8px)" width="3474"/>
+<div class="mg-top-regular">
+<div class="stats-grid-v1" data-w-id="7a5828b5-e3a6-4d50-a099-517a46031b7f" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<p>Sicherhaven is a product-based company dedicated to creating innovative solutions that enhance community engagement and financial literacy. We believe in the power of technology to connect people and empower them to make better financial decisions.</p>
+<p>Our mission is to bridge the gap between local communities and meaningful experiences, while also providing individuals with the tools they need to understand and improve their financial health.</p>
+<div class="flex-vertical align-left" id="w-node-f47a359e-af78-a8e8-05b0-afc42d402de9-ba500387" style="display: none;">
+<div class="position-relative---z-index-1 flex-start overflow-hidden" data-w-id="62b86b78-92be-ddf8-6636-6400ad5c7681">
+<div class="display-10 semibold text-accent">
+<span class="count-up-number-animation" data-count="200">200</span>+</div>
+<div class="stat-highlight">
+</div>
+</div>
+<div class="display-2">Companies in our portfolio</div>
+</div>
+<div class="flex-vertical align-left" id="w-node-ecc2835d-4778-83bc-357b-c544df06f4e0-ba500387" style="display: none;">
+<div class="position-relative---z-index-1 flex-start overflow-hidden" data-w-id="ae3dde56-c980-012f-9435-05f6de171c89">
+<div class="display-10 semibold text-accent">
+<span class="count-up-number-animation" data-count="5">5</span>B+</div>
+<div class="stat-highlight">
+</div>
+</div>
+<div class="display-2">Capital invested</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section pd-top-0">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="inner-container---515px center" data-w-id="940c8291-c091-5311-d6d0-16542d93ae00" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="text-center">
+<div class="text-color-neutral-400">Our Products</div>
+<h2>Innovative Solutions for Community & Finance</h2>
+<div class="mg-top-3x-extra-small">
+<p>Discover our cutting-edge applications designed to enhance community engagement and financial literacy through technology-driven solutions.</p>
+</div>
+<div class="mg-top-small">
+<div class="buttons-row">
+<a class="primary-button w-inline-block" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" data-wf--primary-button--variant="base" href="/contact-us.php" id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb">
+<div class="button-content-flex gap-0">
+<div>Get started</div>
+<div class="button-icon-wrapper">
+<div class="button-icon">
+<svg class="button-arrow" fill="none" viewbox="0 0 16 15" width="14px" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</a>
+<a class="secondary-button w-inline-block" data-w-id="83c75c2f-9f22-4125-8dc1-2c204e7d3592" data-wf--secondary-button--variant="base" href="/PORTFOLIO.php" id="w-node-_83c75c2f-9f22-4125-8dc1-2c204e7d3592-4e7d3592">
+<div class="button-content-flex secondary">
+<div>Browse portfolio</div>
+</div>
+<div class="button-content-flex secondary absolute">
+<div>Browse portfolio</div>
+</div>
+<div class="button-secondary-bg">
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="mg-top-regular">
+<div class="w-dyn-list">
+<div class="_3-items-grid _1-col-mbl w-dyn-items" role="list">
+<div class="w-dyn-item" role="listitem">
+<a class="card portfolio-card-v1 w-inline-block" data-w-id="5b5106c8-715f-100b-dc32-f3d59370a7ef" href="/eventify-app.php">
+<div class="portfolio-card-v1-content">
+<div>
+<div class="mg-top-small">
+<h3 class="display-5">Eventify</h3>
+</div>
+<div class="mg-top-4x-extra-small">
+<p class="text-paragraph">A community-powered application that connects people with local events, helping event hosts reach more clients while providing users with easy access to meaningful experiences in their area.</p>
+</div>
+</div>
+<div class="flex-start gap-3x-extra-small">
+<div class="badge">
+<div>In Development</div>
+</div>
+<div class="text-paragraph">2024</div>
+</div>
+<div class="top-right-button">
+<div class="card-button-icon">
+<svg class="card-arrow-right" fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+</div>
+<div class="portfolio-card-v1-bg">
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="card portfolio-card-v1 w-inline-block" data-w-id="5b5106c8-715f-100b-dc32-f3d59370a7ef" href="/wealthwise.php">
+<div class="portfolio-card-v1-content">
+<div>
+<div class="mg-top-small">
+<h3 class="display-5">WealthWise</h3>
+</div>
+<div class="mg-top-4x-extra-small">
+<p class="text-paragraph">An AI-powered wealth monitoring application that helps users become financially literate by providing insights into their credit history, utilization rates, interest charges, and redundant fees.</p>
+</div>
+</div>
+<div class="flex-start gap-3x-extra-small">
+<div class="badge">
+<div>Coming Soon</div>
+</div>
+<div class="text-paragraph">2024</div>
+</div>
+<div class="top-right-button">
+<div class="card-button-icon">
+<svg class="card-arrow-right" fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+</div>
+<div class="portfolio-card-v1-bg">
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="section-wrapper">
+<section class="card-section">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="w-layout-grid grid-2-columns _1fr---1-75fr">
+<div class="sticky-top static-tablet" id="w-node-a2d667ee-e429-fb51-eccb-c09f750778b2-ba500387">
+<div class="inner-container---380px _100-tablet" data-w-id="101858ff-c365-c57e-2160-3ef319aa317f" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="text-color-neutral-500">Our process</div>
+<h2>Our development approach</h2>
+<div class="mg-top-3x-extra-small">
+<p>We follow a systematic approach to product development, focusing on user needs, market research, and iterative design to create innovative solutions that truly make a difference.</p>
+</div>
+<div class="mg-top-small">
+<div class="buttons-row left">
+<a class="primary-button w-inline-block" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" data-wf--primary-button--variant="base" href="/contact-us.php" id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb">
+<div class="button-content-flex gap-0">
+<div>Get started</div>
+<div class="button-icon-wrapper">
+<div class="button-icon">
+<svg class="button-arrow" fill="none" viewbox="0 0 16 15" width="14px" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="w-tabs" data-current="Tab 1" data-duration-in="300" data-duration-out="100" data-easing="ease" data-w-id="990107ab-70a8-db7b-f0e1-aa711dd35c92" style="opacity:0;filter:blur(8px)">
+<div class="grid-1-column gap-row-2x-extra-small w-tab-menu">
+<a class="accordion-tab w-inline-block w-tab-link w--current" data-w-id="990107ab-70a8-db7b-f0e1-aa711dd35c94" data-w-tab="Tab 1" style="background-color:rgb(241,244,255)">
+<h3>Ideation</h3>
+<div class="accordion-tab-icon-wrapper">
+<div class="accordion-tab-icon" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)">
+<svg fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+<div class="accordion-body" style="width:100%;height:0px;opacity:0">
+<div class="accordion-tab-content">
+<div class="position-relative---z-index-1">
+<div class="inner-container---300px">
+<div class="mg-top-4x-extra-small">
+<p class="text-paragraph">We begin by identifying market opportunities and user pain points to create innovative solutions that address real-world needs in community engagement and financial wellness.</p>
+</div>
+</div>
+<div class="mg-top-2x-extra-small">
+<div class="link">
+<div>Learn more</div>
+<div class="link-icon-right">
+<svg fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-tab-image">
+<img alt="Discovery - Equity - Webflow Template | BRIX Templates" class="image" height="1200" loading="lazy" sizes="(max-width: 479px) 87vw, (max-width: 767px) 88vw, (max-width: 991px) 668px, 880px" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789c769c320447ba2d8_discovery-equity-webflow-template.jpg" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789c769c320447ba2d8_discovery-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789c769c320447ba2d8_discovery-equity-webflow-template-p-800.jpg 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789c769c320447ba2d8_discovery-equity-webflow-template.jpg 1332w" width="1332"/>
+</div>
+<div class="accordion-tab-number">
+<div>01</div>
+</div>
+</div>
+</div>
+</a>
+<a class="accordion-tab w-inline-block w-tab-link" data-w-id="990107ab-70a8-db7b-f0e1-aa711dd35c97" data-w-tab="Tab 2" style="background-color:rgb(241,244,255)">
+<h3>Design</h3>
+<div class="accordion-tab-icon-wrapper">
+<div class="accordion-tab-icon" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)">
+<svg fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+<div class="accordion-body" style="width:100%;height:0px;opacity:0">
+<div class="accordion-tab-content">
+<div class="position-relative---z-index-1">
+<div class="inner-container---300px">
+<div class="mg-top-4x-extra-small">
+<p class="text-paragraph">Our design process focuses on creating intuitive user experiences through wireframing, prototyping, and user testing to ensure our products meet the highest standards of usability.</p>
+</div>
+</div>
+<div class="mg-top-2x-extra-small">
+<div class="link">
+<div>Learn more</div>
+<div class="link-icon-right">
+<svg fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-tab-image">
+<img alt="Research - Equity - Webflow Template | BRIX Templates" class="image" height="1200" loading="lazy" sizes="(max-width: 479px) 87vw, (max-width: 767px) 88vw, (max-width: 991px) 668px, 880px" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789d5c2ffb3eb54e8fb_research-equity-webflow-template.jpg" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789d5c2ffb3eb54e8fb_research-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789d5c2ffb3eb54e8fb_research-equity-webflow-template-p-800.jpg 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d2789d5c2ffb3eb54e8fb_research-equity-webflow-template.jpg 1332w" width="1332"/>
+</div>
+<div class="accordion-tab-number">
+<div>02</div>
+</div>
+</div>
+</div>
+</a>
+<a class="accordion-tab w-inline-block w-tab-link" data-w-id="990107ab-70a8-db7b-f0e1-aa711dd35c9a" data-w-tab="Tab 3" style="background-color:rgb(241,244,255)">
+<h3>Development</h3>
+<div class="accordion-tab-icon-wrapper">
+<div class="accordion-tab-icon" style="-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0deg) skew(0, 0)">
+<svg fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+<div class="accordion-body" style="width:100%;height:0px;opacity:0">
+<div class="accordion-tab-content">
+<div class="position-relative---z-index-1">
+<div class="inner-container---300px">
+<div class="mg-top-4x-extra-small">
+<p class="text-paragraph">We build robust, scalable applications using modern technologies and agile development practices, ensuring reliable performance and continuous improvement.</p>
+</div>
+</div>
+<div class="mg-top-2x-extra-small">
+<div class="link">
+<div>Learn more</div>
+<div class="link-icon-right">
+<svg fill="none" viewbox="0 0 16 16" width="16px" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div class="accordion-tab-image">
+<img alt="Investment - Equity - Webflow Template | BRIX Templates" class="image" height="1200" loading="lazy" sizes="(max-width: 479px) 87vw, (max-width: 767px) 88vw, (max-width: 991px) 668px, 880px" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d27952ceafd7ef3fa1388_investment-equity-webflow-template.jpg" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d27952ceafd7ef3fa1388_investment-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d27952ceafd7ef3fa1388_investment-equity-webflow-template-p-800.jpg 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d27952ceafd7ef3fa1388_investment-equity-webflow-template.jpg 1332w" width="1332"/>
+</div>
+<div class="accordion-tab-number">
+<div>03</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="hidden w-tab-content">
+<div class="w-tab-pane w--tab-active" data-w-tab="Tab 1">
+</div>
+<div class="w-tab-pane" data-w-tab="Tab 2">
+</div>
+<div class="w-tab-pane" data-w-tab="Tab 3">
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section class="section position-relative---z-index-1 overflow-hidden" data-w-id="aa9c7bbf-8bbd-c810-45e0-722ab2d554c4">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="investments-top-cards">
+<div class="position-relative---z-index-1 children-perspective-1000px" id="w-node-_9cb7dbed-f358-a33a-8b9a-7984c19eeb0c-ba500387">
+<div class="investments-v1-card _01">
+<div class="investments-v1-icon">
+<img alt="Automation Icon - Equity - Webflow Template | BRIX Templates" loading="eager" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686b903254105547e3a18c0f_automation-icon-equity-webflow-template.svg"/>
+</div>
+<div>Mobile Development</div>
+</div>
+<div class="investments-v1-bg-square _01">
+</div>
+</div>
+<div class="position-relative---z-index-1 mg-bottom--40px mg-bottom-0-tablet children-perspective-1000px" id="w-node-_6c9a0801-7713-3eb6-92c4-c988fddb6784-ba500387">
+<div class="investments-v1-card _02">
+<div>User Experience</div>
+<div class="investments-v1-icon right">
+<img alt="Infrastructure Icon - Equity - Webflow Template | BRIX Templates" height="64" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686b9035a5b90558f5d460f3_infrastructure-icon-equity-webflow-template.svg" width="64"/>
+</div>
+</div>
+<div class="investments-v1-bg-square _02">
+</div>
+</div>
+</div>
+<div class="inner-container---515px center position-relative---z-index-2">
+<div class="text-center">
+<div class="text-color-neutral-400">Our focus</div>
+<h2>Technologies we specialize in</h2>
+<div class="mg-top-3x-extra-small">
+<p>We leverage cutting-edge technologies to build innovative solutions that enhance community engagement and financial literacy, focusing on AI, mobile development, and user experience design.</p>
+</div>
+<div class="mg-top-small">
+<div class="buttons-row">
+<a class="primary-button w-inline-block" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" data-wf--primary-button--variant="base" href="/contact-us.php" id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb">
+<div class="button-content-flex gap-0">
+<div>Get started</div>
+<div class="button-icon-wrapper">
+<div class="button-icon">
+<svg class="button-arrow" fill="none" viewbox="0 0 16 15" width="14px" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="investments-bottom-cards">
+<div class="position-relative---z-index-1 children-perspective-1000px" id="w-node-_3a614b16-a43a-85f2-ca2a-83a49dcae099-ba500387">
+<div class="investments-v1-card _03">
+<div>Financial Tech</div>
+<div class="investments-v1-icon right">
+<img alt="Generative AI Icon - Equity - Webflow Template | BRIX Templates" height="64" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686b903275247e0631b98f4b_generative-ai-icon-equity-webflow-template.svg" width="64"/>
+</div>
+</div>
+<div class="investments-v1-bg-square _03">
+</div>
+</div>
+<div class="position-relative---z-index-1 children-perspective-1000px" id="w-node-_477408d5-c84f-8e41-6764-b65084b823f9-ba500387">
+<div class="investments-v1-card _04">
+<div class="investments-v1-icon">
+<img alt="Healtcare Icon - Equity - Webflow Template | BRIX Templates" height="64" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686b90323caf6fdccb51962c_healthcare-icon-equity-webflow-template.svg" width="64"/>
+</div>
+<div>Community Tech</div>
+</div>
+<div class="investments-v1-bg-square _04">
+</div>
+</div>
+</div>
+</div>
+<img alt="" class="investments-v1-bg" data-w-id="907b24bc-3bfa-0317-4582-f4f067af2368" loading="eager" sizes="(max-width: 2428px) 100vw, 2428px" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68cdeb521c2cdde8a26ce80b_our-investments-bg-gradient-equity-webflow-template.png" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68cdeb521c2cdde8a26ce80b_our-investments-bg-gradient-equity-webflow-template-p-500.png 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68cdeb521c2cdde8a26ce80b_our-investments-bg-gradient-equity-webflow-template-p-800.png 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68cdeb521c2cdde8a26ce80b_our-investments-bg-gradient-equity-webflow-template-p-1080.png 1080w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68cdeb521c2cdde8a26ce80b_our-investments-bg-gradient-equity-webflow-template.png 2428w" style="opacity:0;filter:blur(8px)"/>
+<div class="investments-v1-bg-square _05">
+</div>
+<div class="investments-v1-bg-square _06">
+</div>
+</section>
+<div class="section-wrapper">
+<section class="cta-section v1" data-w-id="3f553088-23fd-f67f-19be-006e6097db16" style="opacity:0;filter:blur(8px)">
+<div class="w-layout-blockcontainer container-default position-relative---z-index-1 w-container">
+<div class="cta-v1-content" data-w-id="368bc380-8c94-ec62-9a99-a04eacb0abe3" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="text-light">Get in touch</div>
+<h2 class="text-light">Backing AI companies shaping tomorrow</h2>
+<div class="mg-top-3x-extra-small">
+<p class="text-paragraph-light">Lorem ipsum dolor sit amet consectetur tortor at integer ultricies etiam velit rhoncus pharetra vitae nulla in pellentesque tempus.</p>
+</div>
+<div class="mg-top-small">
+<div class="buttons-row left">
+<a class="primary-button w-inline-block" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" data-wf--primary-button--variant="base" href="/contact-us.php" id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb">
+<div class="button-content-flex gap-0">
+<div>Get started</div>
+<div class="button-icon-wrapper">
+<div class="button-icon">
+<svg class="button-arrow" fill="none" viewbox="0 0 16 15" width="14px" xmlns="http://www.w3.org/2000/svg">
+<path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="cta-v1-bg">
+<img alt="" class="cta-v1-image" height="1878" loading="lazy" sizes="(max-width: 4200px) 100vw, 4200px" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template.jpg" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template-p-800.jpg 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template-p-1080.jpg 1080w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template-p-1600.jpg 1600w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template-p-2000.jpg 2000w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template-p-2600.jpg 2600w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d64b6b73715c8c3dcfd5c_cta-v1-bg-equity-webflow-template.jpg 4200w" width="4200"/>
+</div>
+</section>
+</div>
+<section class="section">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="inner-container---515px center" data-w-id="2983905e-0f52-e164-5e01-a3a0d8caa151" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="text-center">
+<div class="text-color-neutral-400">Our Leadership</div>
+<h2>Meet the Minds Behind Sicherhaven</h2>
+<div class="mg-top-3x-extra-small">
+<p>At Sicherhaven, we're driven by a shared vision to transform how communities connect and how individuals achieve financial wellness. Our diverse team of innovators, developers, and strategists brings together expertise in technology, finance, and community building to create impactful solutions.</p>
+</div>
+</div>
+</div>
+<div class="mg-top-regular">
+<div class="inner-container---925px center">
+<div class="w-dyn-list">
+<div class="_4-items-grid w-dyn-items" role="list">
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Nafih Najeeb" class="image" height="648" loading="lazy" src="nafih.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Nafih Najeeb</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Tech</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Anjali Jayadevan" class="image" height="648" loading="lazy" src="anjali.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Anjali Jayadevan</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - People and Resource</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Shajeeb Hamza" class="image" height="648" loading="lazy" src="shajeeb.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Shajeeb Hamza</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Strategy and Business</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Muhammed Maqsood" class="image" height="648" loading="lazy" src="maqsood.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Muhammed Maqsood</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Operations</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Muhammed Khalandar Sha" class="image" height="648" loading="lazy" src="kalandar.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Muhammed Khalandar Sha</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - FinOps</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Abdul Hakkim" class="image" height="648" loading="lazy" src="hakkim.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Abdul Hakkim</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Marketing and Social</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="mg-top-regular">
+<div class="buttons-row" data-w-id="108d83ad-5072-9caf-fe57-c53aa47c518d" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<a class="secondary-button w-inline-block" data-w-id="83c75c2f-9f22-4125-8dc1-2c204e7d3592" data-wf--secondary-button--variant="base" href="/INVESTORS.php" id="w-node-_83c75c2f-9f22-4125-8dc1-2c204e7d3592-4e7d3592">
+<div class="button-content-flex secondary">
+<div>Meet our team</div>
+</div>
+<div class="button-content-flex secondary absolute">
+<div>Meet our team</div>
+</div>
+<div class="button-secondary-bg">
+</div>
+</a>
+</div>
+</div>
+</div>
+</section>
+<div class="section-wrapper">
+<section class="card-section" style="display: none;">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="title-left-content-right" data-w-id="19813610-d71b-7366-ce50-e257268ca4c5" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div>
+<div class="text-color-neutral-500">Testimonials</div>
+<h2>What they say about us</h2>
+</div>
+<div class="inner-container---380px">
+<p>Discover how Sicherhaven is making a difference in the world of fintech and community engagement.</p>
+</div>
+</div>
+<div class="mg-top-regular">
+<div class="w-layout-grid testimonials-grid-v1">
+<div class="card testimonial-card-v1---large" data-w-id="adb61d29-e9e2-9f19-50a0-12598f990d5a" id="w-node-adb61d29-e9e2-9f19-50a0-12598f990d5a-ba500387" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div>
+<div>
+<div class="display-9 text-titles">$10M</div>
+<div>Funding received</div>
+</div>
+<div class="mg-top-small">
+<img alt="Quote Icon - Equity - Webflow Template | BRIX Templates" loading="eager" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d8611ca20e232f338016a_quote-icon-equity-webflow-template.svg"/>
+<div class="mg-top-2x-extra-small">
+<div class="text-titles">
+<div class="display-5 strong">Sicherhaven's strategic insights and technological support have been pivotal in our expansion. They are true partners in our success.</div>
+</div>
+</div>
+</div>
+</div>
+<div class="flex-start gap-3x-extra-small">
+<div class="avatar-border">
+<div class="circle-avatar w-variant-6dae970e-039f-edb5-ad4b-1ac96e8c3a0d" data-wf--circle-avatar--variant="40px">
+<img alt="Muhammed Khalandar Sha Avatar - Equity - Webflow Template | BRIX Templates" class="image" height="120" id="w-node-_2fb19fb9-977d-2e55-56fa-57bec3accb76-c3accb75" loading="lazy" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="120"/>
+</div>
+</div>
+<div>
+<div class="text-titles">
+<div class="display-2 strong">Muhammed Khalandar Sha</div>
+</div>
+<div class="display-2">New York, NY</div>
+</div>
+</div>
+</div>
+<div class="card testimonial-card-v1---large" data-w-id="4e9792f5-e094-e67d-b9a8-e7a4fc3b7216" id="w-node-_4e9792f5-e094-e67d-b9a8-e7a4fc3b7216-ba500387" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="testimonial-v1-top-content">
+<div class="flex-start gap-3x-extra-small">
+<div class="avatar-border">
+<div class="circle-avatar w-variant-6dae970e-039f-edb5-ad4b-1ac96e8c3a0d" data-wf--circle-avatar--variant="40px">
+<img alt="Abdul Hakkim Avatar - Equity - Webflow Template | BRIX Templates" class="image" height="120" id="w-node-_2fb19fb9-977d-2e55-56fa-57bec3accb76-c3accb75" loading="lazy" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="120"/>
+</div>
+</div>
+<div>
+<div class="text-titles">
+<div class="display-2 strong">Abdul Hakkim</div>
+</div>
+<div class="display-2">San Francisco, CA</div>
+</div>
+</div>
+<div>
+<div class="text-titles">
+<div class="display-7 strong">$4M</div>
+</div>
+<div>Funding received</div>
+</div>
+</div>
+<div class="mg-top-small">
+<img alt="Quote Icon - Equity - Webflow Template | BRIX Templates" loading="eager" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d8611ca20e232f338016a_quote-icon-equity-webflow-template.svg"/>
+<div class="mg-top-2x-extra-small">
+<p>We didn’t just gain funding—we gained a partner. Since joining forces, we’ve seen measurable gains in efficiency and performance. It’s clear they believe in our mission</p>
+</div>
+</div>
+</div>
+<div class="card testimonial-card-v1---small" data-w-id="49cc0e55-8b8a-c8b6-2bef-f828ee904a11" id="w-node-_49cc0e55-8b8a-c8b6-2bef-f828ee904a11-ba500387" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div>
+<img alt="Quote Icon - Equity - Webflow Template | BRIX Templates" loading="eager" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d8611ca20e232f338016a_quote-icon-equity-webflow-template.svg"/>
+<div class="mg-top-2x-extra-small">
+<p>They’ve helped us gain clarity and focus across our entire portfolio. This isn’t just capital—it’s a commitment to helping us make faster decisions</p>
+</div>
+</div>
+<div class="mg-top-2x-extra-small">
+<div class="flex-start gap-3x-extra-small">
+<div class="avatar-border">
+<div class="circle-avatar w-variant-6dae970e-039f-edb5-ad4b-1ac96e8c3a0d" data-wf--circle-avatar--variant="40px">
+<img alt="Shajeeb Hamza Avatar - Equity - Webflow Template | BRIX Templates" class="image" height="120" id="w-node-_2fb19fb9-977d-2e55-56fa-57bec3accb76-c3accb75" loading="lazy" src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="120"/>
+</div>
+</div>
+<div>
+<div class="text-titles">
+<div class="display-2 strong">Shajeeb Hamza</div>
+</div>
+<div class="display-2">Los Angeles, CA</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card testimonial-card-v1---small" data-w-id="a1d2d6b1-d969-a504-9bbc-77e2e0b2c7ee" id="w-node-a1d2d6b1-d969-a504-9bbc-77e2e0b2c7ee-ba500387" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div>
+<img alt="Quote Icon - Equity - Webflow Template | BRIX Templates" loading="eager" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/686d8611ca20e232f338016a_quote-icon-equity-webflow-template.svg"/>
+<div class="mg-top-2x-extra-small">
+<p>Their investment completely reshaped how we operate. The automation and insights they brought to the table have helped us scale with precision</p>
+</div>
+</div>
+<div class="mg-top-2x-extra-small">
+<div class="flex-start gap-3x-extra-small">
+<div class="avatar-border">
+<div class="circle-avatar w-variant-6dae970e-039f-edb5-ad4b-1ac96e8c3a0d" data-wf--circle-avatar--variant="40px">
+<img alt="Muhammed Maqsood Avatar - Equity - Webflow Template | BRIX Templates" class="image" height="120" id="w-node-_2fb19fb9-977d-2e55-56fa-57bec3accb76-c3accb75" loading="lazy" src="https://images.unsplash.com/photo-1519345182560-3f2917c472ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80" width="120"/>
+</div>
+</div>
+<div>
+<div class="text-titles">
+<div class="display-2 strong">Muhammed Maqsood</div>
+</div>
+<div class="display-2">New York, NY</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section class="section">
+<div class="w-layout-blockcontainer container-default w-container">
+<div class="inner-container---515px center" data-w-id="2f749469-dfd1-b676-de4a-75566bbf56f9" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="text-center">
+<div class="text-color-neutral-400">Blog</div>
+<h2>Our latest news</h2>
+<div class="mg-top-3x-extra-small">
+<p>We are redefining the intersection of finance and community. Our mission is to provide accessible, transparent, and effective tools for everyone.</p>
+</div>
+</div>
+</div>
+<div class="mg-top-regular">
+<div class="w-layout-grid featured-blog-v1-grid">
+<div class="w-dyn-list">
+<div class="w-dyn-items" role="list">
+<div class="flex w-dyn-item" role="listitem">
+<a class="featured-blog-v1 w-inline-block" data-w-id="b96a7a1d-a2e6-4ad2-4cd8-cac279d7cbca" href="/blog-posts/how-to-raise-capital-5-fundraising-strategies-for-your-startup">
+<img alt="How to raise capital: 5 fundraising strategies for your startup" class="image" height="568" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003b1/686bf30d7111cae298e437ca_how-to-raise-capital-2-1-image-equity-webflow-template.png" width="748"/>
+<div class="featured-blog-v1-content-wrapper">
+<div class="featured-blog-v1-content">
+<h2 class="display-6">How to raise capital: 5 fundraising strategies for your startup</h2>
+<div class="mg-top-3x-extra-small">
+<div class="flex-start gap-3x-extra-small---wrap">
+<div class="badge">Investments</div>
+<div class="display-2 text-paragraph">Jul 7, 2025</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="w-layout-grid grid-1-column">
+<div class="w-dyn-list">
+<div class="grid-1-column w-dyn-items" role="list">
+<div class="w-dyn-item" role="listitem">
+<a class="image-left-item-v1 w-inline-block" data-w-id="8dbbb73e-8d61-b563-a6ca-ea9e4015ac45" href="/blog-posts/we-are-leading-series-a-investment-round-for-brix-templates">
+<div class="image-wrapper border-image-small shadow-default">
+<img alt="We are leading Series A investment round for BRIX Templates" class="image" height="552" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003b1/686bf2ec4d1341d4ccef088f_we-are-leading-series-a-investment-1-1-image-equity-webflow-template.jpg" width="552"/>
+</div>
+<div>
+<h3 class="display-4">We are leading Series A investment round for BRIX Templates</h3>
+<div class="mg-top-3x-extra-small">
+<div>
+<div class="flex-start gap-3x-extra-small">
+<div class="badge">Articles</div>
+<div class="display-2 text-paragraph">Jul 7, 2025</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="image-left-item-v1 w-inline-block" data-w-id="8dbbb73e-8d61-b563-a6ca-ea9e4015ac45" href="/blog-posts/early-stage-fund-details-for-2026-are-now-available">
+<div class="image-wrapper border-image-small shadow-default">
+<img alt="Early stage fund details for 2026 are now available" class="image" height="552" loading="lazy" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003b1/686bf2aefd3f50248f12644f_early-stage-fund-details-for-2026-1-1-image-equity-webflow-template.jpg" width="552"/>
+</div>
+<div>
+<h3 class="display-4">Early stage fund details for 2026 are now available</h3>
+<div class="mg-top-3x-extra-small">
+<div>
+<div class="flex-start gap-3x-extra-small">
+<div class="badge">Press releases</div>
+<div class="display-2 text-paragraph">Jul 7, 2025</div>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="card-cta" data-w-id="3943cb95-4f65-91fa-7cce-95bae4c7f0d3" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0">
+<div class="inner-container---300px _100-tablet">
+<h3 class="display-6 text-light">Get our top updates every week</h3>
+</div>
+<div class="form-block _350px w-form" data-w-id="4412d766-3124-2d16-d50c-e6bf7e7b3f4f" style="opacity:0;filter:blur(8px)">
+<form data-name="CTA Form" data-wf-element-id="4412d766-3124-2d16-d50c-e6bf7e7b3f50" data-wf-page-id="686b7d020ea82bd1ba500387" id="wf-form-CTA-Form" method="get" name="wf-form-CTA-Form">
+<div class="position-relative---z-index-1">
+<input class="input w-input" data-name="Email" id="CTA-email" maxlength="256" name="Email" placeholder="Enter your email address" required="" type="email"/>
+<input class="primary-button inside-input w-button" data-wait="Please wait..." type="submit" value="Subscribe"/>
+</div>
+</form>
+<div class="success-message-wrapper w-form-done">
+<div class="success-message-inside-input">
+<div class="icon-font-rounded"></div>
+<div>Thanks for subscribing to our newsletter!</div>
+</div>
+</div>
+<div class="error-message w-form-fail">
+<div>Oops! Something went wrong while submitting the form.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<?php include 'faq.php'; ?>
+<?php include 'footer.php'; ?>
+</div>
+</div>
+<div class="hidden-code w-embed w-script">
+<style>
+	.more-templates-badge-wrapper {
+             transition: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+   }
+        
+	.more-templates-badge-wrapper.active {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+            z-index: 9991;
+  }
+
+  .more-templates-badge-wrapper.next {
+            opacity: 0.4;
+            transform: translateY(11px) scale(0.9);
+            z-index: 9990;
+  }
+   .more-templates-badge-wrapper.active:hover {
+
+           transform: translateY(-3px) scale(1.02) translateX(-3px) rotate(1deg);
+
+  }
+
+</style>
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const cards = document.querySelectorAll('.more-templates-badge-wrapper');
+            let currentIndex = 0;
+            const ANIMATION_INTERVAL = 8000; // 8 seconds
+
+            function updateCards() {
+                cards.forEach((card, index) => {
+                    card.classList.remove('active', 'next');
+                    
+                    if (index === currentIndex) {
+                        card.classList.add('active');
+                    } else if (index === (currentIndex + 1) % cards.length) {
+                        card.classList.add('next');
+                    }
+                });
+
+                currentIndex = (currentIndex + 1) % cards.length;
+            }
+
+            // Initial state
+            updateCards();
+
+            // Start the loop
+            setInterval(updateCards, ANIMATION_INTERVAL);
+        });
+    </script>
+</div>
+</div>
+<script crossorigin="anonymous" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=686b7d020ea82bd1ba5003a8" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/686b7d020ea82bd1ba5003a8/js/webflow.schunk.57d5559d2f0cd9f8.js" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/686b7d020ea82bd1ba5003a8/js/webflow.schunk.5e1e399f410ff42d.js" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/686b7d020ea82bd1ba5003a8/js/webflow.cf12e98f.009eb7ea97751c1b.js" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/gsap.min.js" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/ScrollTrigger.min.js" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/SplitText.min.js" type="text/javascript">
+</script>
+<script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/Observer.min.js" type="text/javascript">
+</script>
+<script type="text/javascript">gsap.registerPlugin(ScrollTrigger,SplitText,Observer);</script>
+<script>
+// GSAP Template Animation Code - Consolidated for Webflow Validation
+// Register all GSAP plugins at the top
+gsap.registerPlugin(ScrollTrigger, SplitText, Observer);
+
+// Initialize all animations when DOM is ready
+document.addEventListener("DOMContentLoaded", function() {
+    initMarqueeAnimation();
+    initCounterAnimation();
+});
+
+// ============================================
+// MARQUEE SCROLL ANIMATION
+// ============================================
+function initMarqueeAnimation() {
+    const marqueeObject = { value: 1 };
+    
+    // Create marquee timeline with GSAP
+    const marqueeTimeline = gsap.timeline({
+        repeat: -1,
+        onReverseComplete: () => {
+            marqueeTimeline.progress(1);
+        }
+    });
+    
+    // Set up marquee animation
+    marqueeTimeline.fromTo(
+        '.marquee-scroll-item',
+        { xPercent: 0 },
+        {
+            xPercent: -100,
+            duration: 50, // Adjust for marquee speed
+            ease: 'none'
+        }
+    );
+    
+    // Create Observer for scroll interaction
+    Observer.create({
+        target: window,
+        type: 'wheel,scroll,touch',
+        onChangeY: (self) => {
+            let velocity = self.velocityY * 0.002;
+            velocity = gsap.utils.clamp(-40, 40, velocity);
+            marqueeTimeline.timeScale(velocity);
+            
+            let restingSpeed = velocity < 0 ? -1 : 1;
+            
+            // Animate timeScale change with GSAP
+            gsap.fromTo(
+                marqueeObject,
+                { value: velocity },
+                {
+                    value: restingSpeed,
+                    duration: 1,
+                    onUpdate: () => {
+                        marqueeTimeline.timeScale(marqueeObject.value);
+                    }
+                }
+            );
+        }
+    });
+    
+    // Handle reduced motion preference
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (reduceMotion.matches) {
+        marqueeTimeline.pause();
+    }
+}
+
+// ============================================
+// NUMBER COUNTER ANIMATION
+// ============================================
+function initCounterAnimation() {
+    // Helper function for number formatting
+    function numberWithCommas(x, decimals = 0) {
+        return x.toLocaleString(undefined, {
+            minimumFractionDigits: decimals,
+            maximumFractionDigits: decimals
+        });
+    }
+    
+    // Get all counter elements with GSAP utility
+    const counterElements = gsap.utils.toArray(".count-up-number-animation");
+    
+    if (counterElements.length === 0) return; // Guard clause
+    
+    // Create ScrollTrigger animations for each counter
+    counterElements.forEach((element, index) => {
+        const targetValue = parseFloat(element.getAttribute("data-count")) || 100;
+        const decimals = (targetValue % 1 !== 0) ? 1 : 0;
+        
+        // Create counter animation with GSAP
+        gsap.fromTo(element,
+            { textContent: 0 },
+            {
+                textContent: targetValue,
+                duration: 2,
+                ease: "power1.out",
+                snap: decimals ? { textContent: 0.1 } : { textContent: 1 },
+                delay: index * 0.1,
+                scrollTrigger: {
+                    trigger: element,
+                    start: "top 80%",
+                    once: true,
+                    toggleActions: "play none none none"
+                },
+                onUpdate: function() {
+                    const currentValue = parseFloat(element.textContent);
+                    element.textContent = numberWithCommas(currentValue, decimals);
+                }
+            }
+        );
+    });
+    
+    // Refresh ScrollTrigger after all content loads
+    window.addEventListener("load", () => {
+        ScrollTrigger.refresh();
+    });
+}
+
+// ============================================
+// ADDITIONAL GSAP UTILITIES
+// ============================================
+// Batch processing for performance
+ScrollTrigger.batch(".animate-on-scroll", {
+    onEnter: batch => gsap.to(batch, {
+        opacity: 1,
+        y: 0,
+        stagger: 0.15,
+        overwrite: true
+    }),
+    onLeave: batch => gsap.set(batch, {
+        opacity: 0,
+        y: 100,
+        overwrite: true
+    }),
+    onEnterBack: batch => gsap.to(batch, {
+        opacity: 1,
+        y: 0,
+        stagger: 0.15,
+        overwrite: true
+    }),
+    onLeaveBack: batch => gsap.set(batch, {
+        opacity: 0,
+        y: -100,
+        overwrite: true
+    })
+});
+
+// Update on window resize
+window.addEventListener("resize", () => {
+    ScrollTrigger.refresh();
+});
+</script>
+</body>
+</html>

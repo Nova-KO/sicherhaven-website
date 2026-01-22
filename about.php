@@ -1,0 +1,245 @@
+<!DOCTYPE html><html data-wf-domain="investflowtemplate.webflow.io" data-wf-page="686b7d020ea82bd1ba50038b" data-wf-site="686b7d020ea82bd1ba5003a8" lang="en"><head><meta charset="utf-8"/><title>About - Investflow - Webflow HTML website template</title><meta content="Create a strong online presence with Investflow, a sleek and responsive Investment Firm Webflow Template tailored for private equity and asset management firms." name="description"/><meta content="About - Investflow - Webflow HTML website template" property="og:title"/><meta content="Create a strong online presence with Investflow, a sleek and responsive Investment Firm Webflow Template tailored for private equity and asset management firms." property="og:description"/><meta content="img/logov2.png" property="og:image"/><meta content="About - Investflow - Webflow HTML website template" property="twitter:title"/><meta content="Create a strong online presence with Investflow, a sleek and responsive Investment Firm Webflow Template tailored for private equity and asset management firms." property="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><meta content="Webflow" name="generator"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Inter Tight:regular,500,600,700"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/686b7d020ea82bd1ba5003a8/686b7f3f263dce9600631e6c_webclip-equity-webflow-template.svg" rel="apple-touch-icon"/>
+<link rel="icon" type="image/svg+xml" href="favicon.svg"/>
+<link rel="shortcut icon" type="image/svg+xml" href="favicon.svg"/>
+<link href="css/style.css?v=2" rel="stylesheet" type="text/css"/></head><body><div class="page-wrapper">
+<?php include 'header-light.php'; ?><div class="hero-wrapper"><section data-w-id="1f629b1f-a48e-1a0c-e5dc-acd8bfe6e81e" style="opacity:0;filter:blur(8px)" class="section hero-v4"><div class="w-layout-blockcontainer container-default w-container"><div data-w-id="1f629b1f-a48e-1a0c-e5dc-acd8bfe6e820" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="inner-container---435px center"><div class="text-center"><h1 class="text-light">About Sicherhaven Technologies</h1><div class="mg-top-3x-extra-small"><div class="inner-container---600px center"><p class="text-paragraph-light">We are a leading technology company specializing in innovative solutions for community engagement and financial literacy. Our mission is to empower individuals and organizations with cutting-edge tools that drive meaningful connections and financial growth.</p></div></div></div><div class="mg-top-small"><div class="buttons-row"></div></div></div></a></div></div></div></div></section></div><section class="section"><div class="w-layout-blockcontainer container-default w-container"><div data-w-id="e0662ac7-e89e-614b-3010-2ee8d99e409a" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="inner-container---515px center"><div class="text-center"><div class="text-color-neutral-400">Our numbers</div><h2>Why choose Sicherhaven?</h2><div class="mg-top-4x-extra-small"><p>We combine cutting-edge technology with deep industry expertise to deliver solutions that drive real business impact. Our innovative approach to community engagement and financial literacy has transformed how organizations connect with their audiences.</p></div></div></div><div class="mg-top-regular"><div class="w-layout-grid _3-items-grid _1-col-mbl"><div data-w-id="98bd2c14-ebc5-0804-6a86-9d9975a38004" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="stats-card featured"><div data-w-id="6dcef970-45ef-a410-e98d-91e3727ed7a3" class="position-relative---z-index-1 flex-start overflow-hidden"><div class="display-10 semibold text-accent"><span data-count="200" class="count-up-number-animation">200</span>+</div><div class="stat-highlight"></div></div><div><div class="text-titles"><div class="display-4 strong">Projects delivered</div></div><div class="mg-top-3x-extra-small"><p>Successfully completed projects across community engagement platforms and financial literacy solutions.</p></div></div></div><div data-w-id="98bd2c14-ebc5-0804-6a86-9d9975a3800e" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="stats-card"><div data-w-id="dc9ab941-cd96-9ab8-0232-0b806fde00a0" class="position-relative---z-index-1 flex-start overflow-hidden"><div class="display-10 semibold text-accent"><span data-count="5" class="count-up-number-animation">5</span>B+</div><div class="stat-highlight"></div></div><div><div class="text-titles"><div class="display-4 strong">Users empowered</div></div><div class="mg-top-3x-extra-small"><p>Individuals and organizations using our technology solutions to build stronger communities and improve financial literacy.</p></div></div></div><div data-w-id="98bd2c14-ebc5-0804-6a86-9d9975a38018" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="stats-card"><div data-w-id="09df84b9-5458-b92d-9329-e5eace4ad3ea" class="position-relative---z-index-1 flex-start overflow-hidden"><div class="display-10 semibold text-accent"><span data-count="60" class="count-up-number-animation">60</span>+</div><div class="stat-highlight"></div></div><div><div class="text-titles"><div class="display-4 strong">Years of experience</div></div><div class="mg-top-3x-extra-small"><p>Combined expertise in technology development, community engagement, and financial literacy solutions.</p></div></div></div></div></div></div></section><div class="section-wrapper"><section class="card-section"><div class="w-layout-blockcontainer container-default w-container"><div class="w-layout-grid grid-2-columns _2-25fr---1fr"><div id="w-node-_49374e90-4f8c-4ce3-6c8d-dc932c1a53f4-ba50038b" data-w-id="49374e90-4f8c-4ce3-6c8d-dc932c1a53f4" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="sticky-top static-tablet"><div class="text-color-neutral-500">Values</div><h2>Guided by what matters</h2><div class="mg-top-4x-extra-small"><p>Our core values drive every decision we make and every solution we create. We believe in the power of technology to transform communities and empower individuals through accessible financial education.</p></div><div class="mg-top-small"><div class="buttons-row left"><a id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb" data-wf--primary-button--variant="base" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" href="/company-pages/contact" class="primary-button w-inline-block"><div class="button-content-flex gap-0"><div>Get started</div><div class="button-icon-wrapper"><div class="button-icon"><svg xmlns="http://www.w3.org/2000/svg" width="14px" viewBox="0 0 16 15" fill="none" class="button-arrow"><path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></div></a></div></div></div><div class="w-layout-grid grid-2-columns"><div data-w-id="f405033f-09be-f0b9-10ce-0eb571c31981" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="card pd-medium"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dca444218bd54c0530_focus-on-scale-equity-webflow-template.jpg" loading="lazy" width="912" height="756" alt="Focus On Scale - Equity - Webflow Template | BRIX Templates" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dca444218bd54c0530_focus-on-scale-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dca444218bd54c0530_focus-on-scale-equity-webflow-template.jpg 912w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 912px" class="image" /><div class="mg-top-small"><h3>Innovation at Scale</h3><div class="mg-top-4x-extra-small"><p>We develop scalable technology solutions that grow with your organization and adapt to evolving community needs.</p></div></div></div><div data-w-id="ef7b6fb4-3b26-79dc-d13b-4461a46627ea" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="card pd-medium"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68717af7571ea99467ab1e2a_strong-team-focus-equity-webflow-template.jpg" loading="lazy" width="912" height="756" alt="Strong Team Focus - Equity - Webflow Template | BRIX Templates" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68717af7571ea99467ab1e2a_strong-team-focus-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68717af7571ea99467ab1e2a_strong-team-focus-equity-webflow-template.jpg 912w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 912px" class="image" /><div class="mg-top-small"><h3>Collaborative Excellence</h3><div class="mg-top-4x-extra-small"><p>Our diverse team of experts works together to deliver exceptional results through collaboration and shared expertise.</p></div></div></div><div data-w-id="eea7f2c5-8a7e-3849-d9e6-e59197bf6ee0" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="card pd-medium"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dcda26bb15e309060e_solution-oriented-equity-webflow-template.jpg" loading="lazy" width="912" height="756" alt="Solution Oriented - Equity - Webflow Template | BRIX Templates" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dcda26bb15e309060e_solution-oriented-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dcda26bb15e309060e_solution-oriented-equity-webflow-template.jpg 912w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 912px" class="image" /><div class="mg-top-small"><h3>Problem-Solving Focus</h3><div class="mg-top-4x-extra-small"><p>We identify challenges in community engagement and financial literacy, then create innovative solutions that drive real impact.</p></div></div></div><div data-w-id="247dac76-5d64-c4aa-ac56-fa898813ad4f" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="card pd-medium"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dce120e93412c16501_always-adaptable-equity-webflow-template.jpg" loading="lazy" width="912" height="756" alt="Always Adaptable - Equity - Webflow Template | BRIX Templates" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dce120e93412c16501_always-adaptable-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687179dce120e93412c16501_always-adaptable-equity-webflow-template.jpg 912w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 912px" class="image" /><div class="mg-top-small"><h3>Continuous Evolution</h3><div class="mg-top-4x-extra-small"><p>We stay ahead of technological trends and market changes to ensure our solutions remain relevant and effective.</p></div></div></div></div></div></div></section></div><section class="section"><div class="w-layout-blockcontainer container-default w-container"><div data-w-id="506c6d6f-240e-64ef-f9cc-9979b26e20ea" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="title-left-content-right"><div class="inner-container---380px"><div class="text-color-neutral-400">Investors</div><h2>Our Leadership Team</h2><div class="mg-top-4x-extra-small"><p>Meet the visionary leaders driving Sicherhaven Technologies forward with expertise in technology, community engagement, and financial innovation.</p></div></div><a id="w-node-_83c75c2f-9f22-4125-8dc1-2c204e7d3592-4e7d3592" data-wf--secondary-button--variant="base" data-w-id="83c75c2f-9f22-4125-8dc1-2c204e7d3592" href="/company-pages/investors" class="secondary-button w-inline-block"><div class="button-content-flex secondary"><div>Browse all investors</div></div><div class="button-content-flex secondary absolute"><div>Browse all investors</div></div><div class="button-secondary-bg"></div></a></div><div class="mg-top-regular">
+<div class="inner-container---925px center">
+<div class="w-dyn-list">
+<div class="_4-items-grid w-dyn-items" role="list">
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Nafih Najeeb" class="image" height="648" loading="lazy" src="nafih.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Nafih Najeeb</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Tech</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Anjali Jayadevan" class="image" height="648" loading="lazy" src="anjali.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Anjali Jayadevan</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - People and Resource</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Shajeeb Hamza" class="image" height="648" loading="lazy" src="shajeeb.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Shajeeb Hamza</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Strategy and Business</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Muhammed Maqsood" class="image" height="648" loading="lazy" src="maqsood.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Muhammed Maqsood</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Operations</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Muhammed Khalandar Sha" class="image" height="648" loading="lazy" src="kalandar.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Muhammed Khalandar Sha</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - FinOps</div>
+</div>
+</div>
+</a>
+</div>
+<div class="w-dyn-item" role="listitem">
+<a class="text-decoration-none w-inline-block" data-w-id="f64a8c4d-e7e6-0bc5-a0cf-8f1a65e43aec" href="/our-team">
+<div class="image-wrapper border-image-small">
+<img alt="Abdul Hakkim" class="image" height="648" loading="lazy" src="hakkim.png" width="648"/>
+</div>
+<div class="mg-top-2x-extra-small">
+<h3 class="display-4">Abdul Hakkim</h3>
+<div class="mg-top-5x-extra-small">
+<div class="display-2 text-paragraph">Founding Partner - Marketing and Social</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div></div></section><div class="section-wrapper"><section class="card-section"><div class="w-layout-blockcontainer container-default w-container"><div data-w-id="3c7e2207-1588-ce4d-adc7-d549d7f1ff5b" class="inner-container---380px center"><div class="text-center"><div class="text-color-neutral-400">Offices</div><h2>Visit our locations</h2><div class="mg-top-4x-extra-small"><p>Our global presence enables us to serve clients worldwide with local expertise and international reach.</p></div></div></div><div class="mg-top-regular"><div data-w-id="3c7e2207-1588-ce4d-adc7-d549d7f1ff66" class="card office-card"><div data-current="Tab 1" data-easing="ease" data-duration-in="300" data-duration-out="100" class="office-tabs w-tabs"><div class="office-tabs-menu w-tab-menu"><a data-w-tab="Tab 1" data-w-id="3c7e2207-1588-ce4d-adc7-d549d7f1ff69" class="office-tabs-link w-inline-block w-tab-link w--current"><div class="badge office-badge">IN</div><div>Thrissur</div></a></div><div class="office-tabs-content w-tab-content"><div data-w-tab="Tab 1" class="w-tab-pane w--tab-active"><div class="w-layout-grid office-tab"><div class="office-tab-content"><div class="inner-container---300px"><h3 class="display-6">Thrissur, Kerala, India</h3><div class="mg-top-4x-extra-small"><p>Our headquarters in the cultural capital of Kerala, serving as the hub for our technology operations and financial innovation solutions in India.</p></div><div class="mg-top-2x-extra-small"><div class="flex-start"><a data-w-id="3c7e2207-1588-ce4d-adc7-d549d7f1ff84" href="https://www.google.com/maps" target="_blank" class="link-wrapper accent w-inline-block"><div>View on google maps</div><div class="link-icon-right"><svg xmlns="http://www.w3.org/2000/svg" width="16px" viewBox="0 0 16 16" fill="none"><path d="M5.63068 12.4001L10.3691 8.0001L5.63068 3.6001" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></a></div></div></div></div><img width="1650" height="1326" alt="New York Office - Equity - Webflow Template | BRIX Templates" src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68718fa213e2f16b0bb117ad_new-york-office-equity-webflow-template.jpg" loading="lazy" srcset="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68718fa213e2f16b0bb117ad_new-york-office-equity-webflow-template-p-500.jpg 500w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68718fa213e2f16b0bb117ad_new-york-office-equity-webflow-template-p-800.jpg 800w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68718fa213e2f16b0bb117ad_new-york-office-equity-webflow-template-p-1080.jpg 1080w, https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/68718fa213e2f16b0bb117ad_new-york-office-equity-webflow-template.jpg 1650w" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px" class="image border-small" /></div></div></div></div></div></div></section></div><section class="section"><div class="w-layout-blockcontainer container-default w-container"><div class="w-layout-grid grid-2-columns _1fr---1-8fr"><div id="w-node-_9d71071e-2321-61e8-84f2-84099965dac3-ba50038b" data-w-id="9d71071e-2321-61e8-84f2-84099965dac3" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="sticky-top static-tablet"><div class="text-color-neutral-400">Our milestone</div><h2>Our Journey of Innovation</h2><div class="mg-top-4x-extra-small"><p>From our founding to becoming a leading technology company, we've consistently delivered solutions that transform communities and empower individuals.</p></div><div class="mg-top-small"><div class="buttons-row left"><a id="w-node-_99805214-dd54-e7f3-2549-05c0df1040fb-df1040fb" data-wf--primary-button--variant="base" data-w-id="99805214-dd54-e7f3-2549-05c0df1040fb" href="/company-pages/contact" class="primary-button w-inline-block"><div class="button-content-flex gap-0"><div>Get started</div><div class="button-icon-wrapper"><div class="button-icon"><svg xmlns="http://www.w3.org/2000/svg" width="14px" viewBox="0 0 16 15" fill="none" class="button-arrow"><path d="M7.8589 0.996826L14.1772 7.02789M14.1772 7.02789L7.8589 13.059M14.1772 7.02789L1.87854 7.02789" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg></div></div></div></a></div></div></div><div id="w-node-_59a58382-c971-d33f-c198-510edefc21c9-ba50038b" class="w-layout-grid grid-1-column gap-row-0"><div class="milestone-wrapper"><div id="w-node-c7ee9735-57e3-a367-f8c5-29cb0e244d0a-ba50038b" class="milestone-badge-wrapper"><div class="badge">2023</div><div class="milestone-line"></div></div><div id="w-node-bec3bcf8-3c1d-eb63-b7e3-1df7110bdfa1-ba50038b" class="image-wrapper border-image-small"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687188c73366a8fe18124ae5_launch-equity-webflow-template.jpg" loading="lazy" width="498" height="498" alt="Launch - Equity - Webflow Template | BRIX Templates" class="image fit-cover" /></div><div id="w-node-_355495f5-02af-d8a7-b8be-f835cf7b0888-ba50038b" class="milestone-text"><h3>Company Founded &amp; First Platform Launch</h3><div class="mg-top-3x-extra-small"><p>Founded Sicherhaven Technologies with a vision to revolutionize community engagement through innovative technology solutions.</p></div></div></div><div class="milestone-wrapper"><div id="w-node-_3ce19133-1dc5-851d-ccef-b3dd121f2062-ba50038b" class="milestone-badge-wrapper"><div class="badge">2024</div><div class="milestone-line"></div></div><div id="w-node-_3ce19133-1dc5-851d-ccef-b3dd121f2066-ba50038b" class="image-wrapper border-image-small"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687188c72d6f7831d18a5d82_first-fund-equity-webflow-template.jpg" loading="lazy" width="498" height="498" alt="First Fund - Equity - Webflow Template | BRIX Templates" class="image fit-cover" /></div><div id="w-node-_3ce19133-1dc5-851d-ccef-b3dd121f2068-ba50038b" class="milestone-text"><h3>Series A Funding &amp; Platform Expansion</h3><div class="mg-top-3x-extra-small"><p>Successfully raised Series A funding to expand our platform capabilities and reach new markets across North America and Europe.</p></div></div></div><div class="milestone-wrapper"><div id="w-node-_674dc6e6-eeb8-3f04-0683-64cdaadcce24-ba50038b" class="milestone-badge-wrapper"><div class="badge">2025</div><div class="milestone-line"></div></div><div id="w-node-_674dc6e6-eeb8-3f04-0683-64cdaadcce28-ba50038b" class="image-wrapper border-image-small"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687188c881de583505a53d9b_strategic-team-equity-webflow-template.jpg" loading="lazy" width="498" height="498" alt="Strategic Team - Equity - Webflow Template | BRIX Templates" class="image fit-cover" /></div><div id="w-node-_674dc6e6-eeb8-3f04-0683-64cdaadcce2a-ba50038b" class="milestone-text"><h3>AI Integration &amp; Advanced Analytics</h3><div class="mg-top-3x-extra-small"><p>Launched our AI-powered analytics platform, revolutionizing how organizations understand and engage with their communities.</p></div></div></div><div class="milestone-wrapper last"><div id="w-node-b06ba263-7a5d-05b7-5059-0822b7c7ff0b-ba50038b" class="milestone-badge-wrapper"><div class="badge">2026</div></div><div id="w-node-b06ba263-7a5d-05b7-5059-0822b7c7ff0f-ba50038b" class="image-wrapper border-image-small"><img src="https://wubflow-shield.NOCODEXPORT.DEV/686b7d020ea82bd1ba5003a8/687188c82d6f7831d18a5dbb_partnered-equity-webflow-template.jpg" loading="lazy" width="498" height="498" alt="Partnered - Equity - Webflow Template | BRIX Templates" class="image fit-cover" /></div><div id="w-node-b06ba263-7a5d-05b7-5059-0822b7c7ff11-ba50038b" class="milestone-text"><h3>Global Expansion &amp; Strategic Partnerships</h3><div class="mg-top-3x-extra-small"><p>Established strategic partnerships with leading organizations and expanded our presence to serve clients in over 25 countries.</p></div></div></div></div></div></div></section><?php include 'footer.php'; ?></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=686b7d020ea82bd1ba5003a8" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://wubflow-shield.nocodexport.dev/686b7d020ea82bd1ba5003a8/js/webflow.schunk.57d5559d2f0cd9f8.js" type="text/javascript"></script><script src="https://wubflow-shield.nocodexport.dev/686b7d020ea82bd1ba5003a8/js/webflow.schunk.5e1e399f410ff42d.js" type="text/javascript"></script><script src="https://wubflow-shield.nocodexport.dev/686b7d020ea82bd1ba5003a8/js/webflow.cf12e98f.009eb7ea97751c1b.js" type="text/javascript"></script><script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/gsap.min.js" type="text/javascript"></script><script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/ScrollTrigger.min.js" type="text/javascript"></script><script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/SplitText.min.js" type="text/javascript"></script><script src="https://wubflow-shield.nocodexport.dev/gsap/3.13.0/Observer.min.js" type="text/javascript"></script><script type="text/javascript">gsap.registerPlugin(ScrollTrigger,SplitText,Observer);</script><script>
+// GSAP Template Animation Code - Consolidated for Webflow Validation
+// Register all GSAP plugins at the top
+gsap.registerPlugin(ScrollTrigger, SplitText, Observer);
+
+// Initialize all animations when DOM is ready
+document.addEventListener("DOMContentLoaded", function() {
+    initMarqueeAnimation();
+    initCounterAnimation();
+});
+
+// ============================================
+// MARQUEE SCROLL ANIMATION
+// ============================================
+function initMarqueeAnimation() {
+    const marqueeObject = { value: 1 };
+    
+    // Create marquee timeline with GSAP
+    const marqueeTimeline = gsap.timeline({
+        repeat: -1,
+        onReverseComplete: () => {
+            marqueeTimeline.progress(1);
+        }
+    });
+    
+    // Set up marquee animation
+    marqueeTimeline.fromTo(
+        '.marquee-scroll-item',
+        { xPercent: 0 },
+        {
+            xPercent: -100,
+            duration: 50, // Adjust for marquee speed
+            ease: 'none'
+        }
+    );
+    
+    // Create Observer for scroll interaction
+    Observer.create({
+        target: window,
+        type: 'wheel,scroll,touch',
+        onChangeY: (self) => {
+            let velocity = self.velocityY * 0.002;
+            velocity = gsap.utils.clamp(-40, 40, velocity);
+            marqueeTimeline.timeScale(velocity);
+            
+            let restingSpeed = velocity < 0 ? -1 : 1;
+            
+            // Animate timeScale change with GSAP
+            gsap.fromTo(
+                marqueeObject,
+                { value: velocity },
+                {
+                    value: restingSpeed,
+                    duration: 1,
+                    onUpdate: () => {
+                        marqueeTimeline.timeScale(marqueeObject.value);
+                    }
+                }
+            );
+        }
+    });
+    
+    // Handle reduced motion preference
+    const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+    if (reduceMotion.matches) {
+        marqueeTimeline.pause();
+    }
+}
+
+// ============================================
+// NUMBER COUNTER ANIMATION
+// ============================================
+function initCounterAnimation() {
+    // Helper function for number formatting
+    function numberWithCommas(x, decimals = 0) {
+        return x.toLocaleString(undefined, {
+            minimumFractionDigits: decimals,
+            maximumFractionDigits: decimals
+        });
+    }
+    
+    // Get all counter elements with GSAP utility
+    const counterElements = gsap.utils.toArray(".count-up-number-animation");
+    
+    if (counterElements.length === 0) return; // Guard clause
+    
+    // Create ScrollTrigger animations for each counter
+    counterElements.forEach((element, index) => {
+        const targetValue = parseFloat(element.getAttribute("data-count")) || 100;
+        const decimals = (targetValue % 1 !== 0) ? 1 : 0;
+        
+        // Create counter animation with GSAP
+        gsap.fromTo(element,
+            { textContent: 0 },
+            {
+                textContent: targetValue,
+                duration: 2,
+                ease: "power1.out",
+                snap: decimals ? { textContent: 0.1 } : { textContent: 1 },
+                delay: index * 0.1,
+                scrollTrigger: {
+                    trigger: element,
+                    start: "top 80%",
+                    once: true,
+                    toggleActions: "play none none none"
+                },
+                onUpdate: function() {
+                    const currentValue = parseFloat(element.textContent);
+                    element.textContent = numberWithCommas(currentValue, decimals);
+                }
+            }
+        );
+    });
+    
+    // Refresh ScrollTrigger after all content loads
+    window.addEventListener("load", () => {
+        ScrollTrigger.refresh();
+    });
+}
+
+// ============================================
+// ADDITIONAL GSAP UTILITIES
+// ============================================
+// Batch processing for performance
+ScrollTrigger.batch(".animate-on-scroll", {
+    onEnter: batch => gsap.to(batch, {
+        opacity: 1,
+        y: 0,
+        stagger: 0.15,
+        overwrite: true
+    }),
+    onLeave: batch => gsap.set(batch, {
+        opacity: 0,
+        y: 100,
+        overwrite: true
+    }),
+    onEnterBack: batch => gsap.to(batch, {
+        opacity: 1,
+        y: 0,
+        stagger: 0.15,
+        overwrite: true
+    }),
+    onLeaveBack: batch => gsap.set(batch, {
+        opacity: 0,
+        y: -100,
+        overwrite: true
+    })
+});
+
+// Update on window resize
+window.addEventListener("resize", () => {
+    ScrollTrigger.refresh();
+});
+</script><style>
+</style>
+</body></html>
