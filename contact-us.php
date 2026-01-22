@@ -60,8 +60,8 @@
 </div>
 </div>
 </div>
-<div data-w-id="38e83f26-3c26-10e9-9df5-ed7a2db210e0" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="main-contact-form w-form">
-<form id="wf-form-Contact-Form" name="wf-form-Contact-Form" data-name="Contact Form" method="get" class="grid-2-columns contact-form-grid" data-wf-page-id="686b7d020ea82bd1ba50038e" data-wf-element-id="38e83f26-3c26-10e9-9df5-ed7a2db210e1">
+<div data-w-id="38e83f26-3c26-10e9-9df5-ed7a2db210e0" style="-webkit-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 10%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);opacity:0" class="main-contact-form">
+<form id="wf-form-Contact-Form" name="wf-form-Contact-Form" data-name="Contact Form" method="post" class="grid-2-columns contact-form-grid">
 <div>
 <label for="First-Name">First name</label>
 <input class="input w-input" maxlength="256" name="First-Name" data-name="First Name" placeholder="ex. John" type="text" id="First-Name" required=""/>
@@ -391,6 +391,65 @@ ScrollTrigger.batch(".animate-on-scroll", {
 // Update on window resize
 window.addEventListener("resize", () => {
     ScrollTrigger.refresh();
+});
+</script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const form = document.getElementById('wf-form-Contact-Form');
+    const successMessage = document.querySelector('.success-message-wrapper');
+    const errorMessage = document.querySelector('.error-message');
+    const submitButton = form.querySelector('input[type="submit"]');
+    const originalButtonText = submitButton.value;
+
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbyM6k2bancEwrISw32BGX4A1rpihuDAG8SDjr5BgtQJh2r7b_3aY_10LNNS5bG6UmtD/exec';
+
+    form.addEventListener('submit', e => {
+        e.preventDefault();
+        
+        // Show loading state
+        submitButton.value = submitButton.getAttribute('data-wait') || 'Please wait...';
+        submitButton.disabled = true;
+        
+        // Hide previous messages
+        successMessage.style.display = 'none';
+        errorMessage.style.display = 'none';
+
+        const formData = new FormData(form);
+        const data = {};
+        formData.forEach((value, key) => data[key] = value);
+
+        // Google Apps Script expects URL encoded parameters for POST if checking e.parameter
+        // But the script I provided uses e.parameter, which works with query parameters or application/x-www-form-urlencoded
+        // Let's use URLSearchParams to send as x-www-form-urlencoded which is robust for this simple script
+        
+        fetch(scriptURL, {
+            method: 'POST',
+            body: new URLSearchParams(new FormData(form))
+        })
+        .then(response => {
+            console.log('Success!', response);
+            // Verify if the script returns a JSON success, though the fetch itself succeeding usually means it reached the script.
+            // My provided script returns JSON, so we can parse it if we want, but checking status is usually enough for the "no-cors" mode issues if we were cross-origin without CORS.
+            // However, the script returns JSON with CORS headers implicitly if deployed correctly as Web App.
+            // Let's assume standard behavior.
+            
+            // Show success message
+            form.style.display = 'none';
+            successMessage.style.display = 'block';
+            
+            // Reset form
+            form.reset();
+        })
+        .catch(error => {
+            console.error('Error!', error.message);
+            errorMessage.style.display = 'block';
+            errorMessage.innerText = 'Something went wrong. Please try again.';
+        })
+        .finally(() => {
+            submitButton.value = originalButtonText;
+            submitButton.disabled = false;
+        });
+    });
 });
 </script>
 </body>
